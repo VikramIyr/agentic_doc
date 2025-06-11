@@ -1,0 +1,34 @@
+document_type: default
+
+ocr:
+  engine: tesseract
+  params:
+    lang: eng
+    psm: 1
+
+layout:
+  model: detectron2_coarse
+  params:
+    confidence_threshold: 0.5
+
+parser:
+  - name: donut_v1
+    type: vision
+    params:
+      max_length: 512
+  - name: layoutlmv3_base
+    type: multi_modal
+    params:
+      max_seq_length: 512
+
+fields:
+  - name: "*"
+    type: any
+
+validation:
+  dates:
+    earliest: "1900-01-01"
+    latest:   "2100-12-31"
+  numbers:
+    allow_negative: false
+
