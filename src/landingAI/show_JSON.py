@@ -17,7 +17,7 @@ with open(output_path, "w", encoding="utf-8") as f:
 
 
 # Get the extracted data as markdown
-(result[0].markdown)
+result[0].markdown
 
 # Get the extracted data as structured chunks of content in a JSON schema
-(result[0].chunks)  
+result[0].chunks
