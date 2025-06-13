@@ -1,0 +1,4325 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        363,
+                        26,
+                        460,
+                        74
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                360,
+                                29,
+                                463,
+                                73
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        360,
+                                        29,
+                                        463,
+                                        73
+                                    ],
+                                    "score": 0.835,
+                                    "content": "CPD",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        365,
+                        83,
+                        540,
+                        95
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                365,
+                                84,
+                                540,
+                                95
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        365,
+                                        84,
+                                        540,
+                                        95
+                                    ],
+                                    "score": 0.979,
+                                    "content": "CPB SOFTWARE (GERMANY) GMBH",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        364,
+                        102,
+                        464,
+                        136
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                363,
+                                102,
+                                464,
+                                112
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        363,
+                                        102,
+                                        464,
+                                        112
+                                    ],
+                                    "score": 0.976,
+                                    "content": "Im Bruch 3, 63897 Miltenberg",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                365,
+                                111,
+                                450,
+                                118
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        365,
+                                        111,
+                                        392,
+                                        118
+                                    ],
+                                    "score": 0.999,
+                                    "content": "Telefon:",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        392,
+                                        111,
+                                        407,
+                                        118
+                                    ],
+                                    "score": 0.51,
+                                    "content": "+ 4 9",
+                                    "type": "inline_equation",
+                                    "height": 7,
+                                    "width": 15
+                                },
+                                {
+                                    "bbox": [
+                                        407,
+                                        111,
+                                        450,
+                                        118
+                                    ],
+                                    "score": 0.998,
+                                    "content": "937197860",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                363,
+                                119,
+                                460,
+                                128
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        363,
+                                        119,
+                                        460,
+                                        128
+                                    ],
+                                    "score": 0.993,
+                                    "content": "germany@cpb-software.com",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                364,
+                                128,
+                                442,
+                                135
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        364,
+                                        128,
+                                        442,
+                                        135
+                                    ],
+                                    "score": 1.0,
+                                    "content": "www.cpb-software.com",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 3.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        58,
+                        182,
+                        143,
+                        231
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                58,
+                                182,
+                                134,
+                                193
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        58,
+                                        182,
+                                        134,
+                                        193
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Musterkunde AG",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                58,
+                                194,
+                                119,
+                                206
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        58,
+                                        194,
+                                        119,
+                                        206
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Mr. John Doe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                58,
+                                207,
+                                118,
+                                218
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        58,
+                                        207,
+                                        118,
+                                        218
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Musterstr. 23",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                58,
+                                219,
+                                143,
+                                231
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        58,
+                                        219,
+                                        143,
+                                        231
+                                    ],
+                                    "score": 1.0,
+                                    "content": "12345 Musterstadt",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 7.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        58,
+                        293,
+                        196,
+                        305
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                58,
+                                294,
+                                196,
+                                305
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        58,
+                                        294,
+                                        196,
+                                        305
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Invoice WMACCESS Internet",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        55,
+                        329,
+                        562,
+                        358
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_caption",
+                            "bbox": [
+                                57,
+                                318,
+                                144,
+                                328
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        58,
+                                        320,
+                                        143,
+                                        328
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                58,
+                                                320,
+                                                143,
+                                                328
+                                            ],
+                                            "score": 1.0,
+                                            "content": "VAT No. DE199378386",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 11
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                55,
+                                329,
+                                562,
+                                358
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        329,
+                                        562,
+                                        358
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                55,
+                                                329,
+                                                562,
+                                                358
+                                            ],
+                                            "score": 0.945,
+                                            "html": "<html><body><table><tr><td>Invoice No</td><td>Customer No</td><td>Invoice Period</td><td>Date</td></tr><tr><td>123100401</td><td>12345</td><td>01.02.2024 - 29.02.2024</td><td>1. März 2024</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "4c39b9269a3304dc31208cdd84e08acfb40400de2b59fb487c32bcbf58c71cfc.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 13,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        329,
+                                        562,
+                                        338.6666666666667
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                },
+                                {
+                                    "bbox": [
+                                        55,
+                                        338.6666666666667,
+                                        562,
+                                        348.33333333333337
+                                    ],
+                                    "spans": [],
+                                    "index": 13
+                                },
+                                {
+                                    "bbox": [
+                                        55,
+                                        348.33333333333337,
+                                        562,
+                                        358.00000000000006
+                                    ],
+                                    "spans": [],
+                                    "index": 14
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12.0
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        56,
+                        367,
+                        564,
+                        641
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                56,
+                                367,
+                                564,
+                                641
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        367,
+                                        564,
+                                        641
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                56,
+                                                367,
+                                                564,
+                                                641
+                                            ],
+                                            "score": 0.982,
+                                            "html": "<html><body><table><tr><td>Service Description</td><td>Amount</td><td>quantity</td><td>Total Amount</td></tr><tr><td>Basic Fee wmView</td><td>-without VAT- 130,00 €</td><td>1</td><td>130,00 €</td></tr><tr><td>Basis fee for additional user accounts</td><td>10,00€</td><td>0</td><td>0,00€</td></tr><tr><td>Basic Fee wmPos</td><td>50,00€</td><td>0</td><td>0,00 €</td></tr><tr><td>Basic Fee wmGuide</td><td>1.000,00 €</td><td>0</td><td>0,00€</td></tr><tr><td>Change of user accounts</td><td>10,00€</td><td>0</td><td>0,00€</td></tr><tr><td>Transaction Fee T1</td><td>0,58€</td><td>14</td><td>8,12€</td></tr><tr><td>Transaction Fee T2</td><td>0,70€</td><td>0</td><td>0,00€</td></tr><tr><td>Transaction Fee T3</td><td>1,50€</td><td>162</td><td>243,00 €</td></tr><tr><td>Transaction Fee T4</td><td>0,50€</td><td>0</td><td>0,00€</td></tr><tr><td>Transaction Fee T5</td><td>0,80€</td><td>0</td><td>0,00€</td></tr><tr><td>Transaction Fee T6</td><td>1,80€</td><td>0</td><td>0,00 €</td></tr><tr><td>Transaction Fee G1</td><td>0,30€</td><td>0</td><td>0,00 €</td></tr><tr><td>Transaction Fee G2</td><td>0,30€</td><td></td><td>0,00€</td></tr><tr><td>Transaction Fee G3</td><td>0,40€</td><td>0</td><td>0,00€</td></tr><tr><td>Transaction Fee G4</td><td>0,40€</td><td>0</td><td>0,00 €</td></tr><tr><td>Transaction Fee G5</td><td>0,30€</td><td></td><td>0,00€</td></tr><tr><td>Transaction Fee G6</td><td>0,30€</td><td>0</td><td>0,00€</td></tr><tr><td rowspan=\"3\"></td><td colspan=\"2\">Total</td><td>381,12 €</td></tr><tr><td colspan=\"2\">VAT 19 %</td><td>72,41 €</td></tr><tr><td colspan=\"2\">Gross Amount incl. VAT</td><td>453,53€</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "d21f001f48fc05043fc9f97250ae0400b2547723c2f8034cde6bb6582b0280c1.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 16,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        367,
+                                        564,
+                                        458.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 15
+                                },
+                                {
+                                    "bbox": [
+                                        56,
+                                        458.3333333333333,
+                                        564,
+                                        549.6666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 16
+                                },
+                                {
+                                    "bbox": [
+                                        56,
+                                        549.6666666666666,
+                                        564,
+                                        641.0
+                                    ],
+                                    "spans": [],
+                                    "index": 17
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 16
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        58,
+                        663,
+                        464,
+                        686
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                58,
+                                664,
+                                464,
+                                675
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        58,
+                                        664,
+                                        464,
+                                        675
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Terms of Payment: Immediate payment without discount. Any bank charges must be paid by the invoice recipient.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                58,
+                                676,
+                                291,
+                                687
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        58,
+                                        676,
+                                        291,
+                                        687
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Bank fees at our expense will be charged to the invoice recipient!",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        }
+                    ],
+                    "index": 18.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        58,
+                        700,
+                        490,
+                        711
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                58,
+                                701,
+                                490,
+                                712
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        58,
+                                        701,
+                                        490,
+                                        712
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Please credit the amount invoiced to IBAN DE29 1234 5678 9012 3456 78 | BIC GENODE51MIC (SEPA Credit Transfer)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        }
+                    ],
+                    "index": 20
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        58,
+                        737,
+                        277,
+                        748
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                57,
+                                738,
+                                277,
+                                748
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        738,
+                                        277,
+                                        748
+                                    ],
+                                    "score": 1.0,
+                                    "content": "This invoice is generated automatically and will not be signed",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        }
+                    ],
+                    "index": 21
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                595.3200073242188,
+                841.9199829101562
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        55,
+                        329,
+                        562,
+                        358
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_caption",
+                            "bbox": [
+                                57,
+                                318,
+                                144,
+                                328
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        58,
+                                        320,
+                                        143,
+                                        328
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                58,
+                                                320,
+                                                143,
+                                                328
+                                            ],
+                                            "score": 1.0,
+                                            "content": "VAT No. DE199378386",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 11
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                55,
+                                329,
+                                562,
+                                358
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        329,
+                                        562,
+                                        358
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                55,
+                                                329,
+                                                562,
+                                                358
+                                            ],
+                                            "score": 0.945,
+                                            "html": "<html><body><table><tr><td>Invoice No</td><td>Customer No</td><td>Invoice Period</td><td>Date</td></tr><tr><td>123100401</td><td>12345</td><td>01.02.2024 - 29.02.2024</td><td>1. März 2024</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "4c39b9269a3304dc31208cdd84e08acfb40400de2b59fb487c32bcbf58c71cfc.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 13,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        329,
+                                        562,
+                                        338.6666666666667
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                },
+                                {
+                                    "bbox": [
+                                        55,
+                                        338.6666666666667,
+                                        562,
+                                        348.33333333333337
+                                    ],
+                                    "spans": [],
+                                    "index": 13
+                                },
+                                {
+                                    "bbox": [
+                                        55,
+                                        348.33333333333337,
+                                        562,
+                                        358.00000000000006
+                                    ],
+                                    "spans": [],
+                                    "index": 14
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12.0
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        56,
+                        367,
+                        564,
+                        641
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                56,
+                                367,
+                                564,
+                                641
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        367,
+                                        564,
+                                        641
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                56,
+                                                367,
+                                                564,
+                                                641
+                                            ],
+                                            "score": 0.982,
+                                            "html": "<html><body><table><tr><td>Service Description</td><td>Amount</td><td>quantity</td><td>Total Amount</td></tr><tr><td>Basic Fee wmView</td><td>-without VAT- 130,00 €</td><td>1</td><td>130,00 €</td></tr><tr><td>Basis fee for additional user accounts</td><td>10,00€</td><td>0</td><td>0,00€</td></tr><tr><td>Basic Fee wmPos</td><td>50,00€</td><td>0</td><td>0,00 €</td></tr><tr><td>Basic Fee wmGuide</td><td>1.000,00 €</td><td>0</td><td>0,00€</td></tr><tr><td>Change of user accounts</td><td>10,00€</td><td>0</td><td>0,00€</td></tr><tr><td>Transaction Fee T1</td><td>0,58€</td><td>14</td><td>8,12€</td></tr><tr><td>Transaction Fee T2</td><td>0,70€</td><td>0</td><td>0,00€</td></tr><tr><td>Transaction Fee T3</td><td>1,50€</td><td>162</td><td>243,00 €</td></tr><tr><td>Transaction Fee T4</td><td>0,50€</td><td>0</td><td>0,00€</td></tr><tr><td>Transaction Fee T5</td><td>0,80€</td><td>0</td><td>0,00€</td></tr><tr><td>Transaction Fee T6</td><td>1,80€</td><td>0</td><td>0,00 €</td></tr><tr><td>Transaction Fee G1</td><td>0,30€</td><td>0</td><td>0,00 €</td></tr><tr><td>Transaction Fee G2</td><td>0,30€</td><td></td><td>0,00€</td></tr><tr><td>Transaction Fee G3</td><td>0,40€</td><td>0</td><td>0,00€</td></tr><tr><td>Transaction Fee G4</td><td>0,40€</td><td>0</td><td>0,00 €</td></tr><tr><td>Transaction Fee G5</td><td>0,30€</td><td></td><td>0,00€</td></tr><tr><td>Transaction Fee G6</td><td>0,30€</td><td>0</td><td>0,00€</td></tr><tr><td rowspan=\"3\"></td><td colspan=\"2\">Total</td><td>381,12 €</td></tr><tr><td colspan=\"2\">VAT 19 %</td><td>72,41 €</td></tr><tr><td colspan=\"2\">Gross Amount incl. VAT</td><td>453,53€</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "d21f001f48fc05043fc9f97250ae0400b2547723c2f8034cde6bb6582b0280c1.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 16,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        367,
+                                        564,
+                                        458.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 15
+                                },
+                                {
+                                    "bbox": [
+                                        56,
+                                        458.3333333333333,
+                                        564,
+                                        549.6666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 16
+                                },
+                                {
+                                    "bbox": [
+                                        56,
+                                        549.6666666666666,
+                                        564,
+                                        641.0
+                                    ],
+                                    "spans": [],
+                                    "index": 17
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 16
+                }
+            ],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        363,
+                        220,
+                        455,
+                        243
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                365,
+                                221,
+                                447,
+                                229
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        365,
+                                        221,
+                                        447,
+                                        229
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Name:  Stefanie Müller",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                364,
+                                233,
+                                454,
+                                242
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        364,
+                                        233,
+                                        391,
+                                        242
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Phone:",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        392,
+                                        233,
+                                        407,
+                                        242
+                                    ],
+                                    "score": 0.63,
+                                    "content": "^ { + 4 9 }",
+                                    "type": "inline_equation",
+                                    "height": 9,
+                                    "width": 15
+                                },
+                                {
+                                    "bbox": [
+                                        407,
+                                        233,
+                                        454,
+                                        242
+                                    ],
+                                    "score": 1.0,
+                                    "content": " 9371 9786-0",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        58,
+                        159,
+                        275,
+                        168
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                58,
+                                160,
+                                275,
+                                169
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        58,
+                                        160,
+                                        158,
+                                        169
+                                    ],
+                                    "score": 1.0,
+                                    "content": "CPB Software (Germany) GmbH",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        159,
+                                        161,
+                                        165,
+                                        167
+                                    ],
+                                    "score": 0.3,
+                                    "content": "\\cdot ^ { \\cdot }",
+                                    "type": "inline_equation",
+                                    "height": 6,
+                                    "width": 6
+                                },
+                                {
+                                    "bbox": [
+                                        165,
+                                        160,
+                                        275,
+                                        169
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Im Bruch 3 - 63897 Miltenberg/Main",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        363,
+                        26,
+                        460,
+                        74
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                360,
+                                29,
+                                463,
+                                73
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        360,
+                                        29,
+                                        463,
+                                        73
+                                    ],
+                                    "score": 0.835,
+                                    "content": "CPD",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.3200073242188,
+                        841.9199829101562
+                    ],
+                    "bbox_fs": [
+                        360,
+                        29,
+                        463,
+                        73
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        365,
+                        83,
+                        540,
+                        95
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                365,
+                                84,
+                                540,
+                                95
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        365,
+                                        84,
+                                        540,
+                                        95
+                                    ],
+                                    "score": 0.979,
+                                    "content": "CPB SOFTWARE (GERMANY) GMBH",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.3200073242188,
+                        841.9199829101562
+                    ],
+                    "bbox_fs": [
+                        365,
+                        84,
+                        540,
+                        95
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        364,
+                        102,
+                        464,
+                        136
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                363,
+                                102,
+                                464,
+                                112
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        363,
+                                        102,
+                                        464,
+                                        112
+                                    ],
+                                    "score": 0.976,
+                                    "content": "Im Bruch 3, 63897 Miltenberg",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                365,
+                                111,
+                                450,
+                                118
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        365,
+                                        111,
+                                        392,
+                                        118
+                                    ],
+                                    "score": 0.999,
+                                    "content": "Telefon:",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        392,
+                                        111,
+                                        407,
+                                        118
+                                    ],
+                                    "score": 0.51,
+                                    "content": "+ 4 9",
+                                    "type": "inline_equation",
+                                    "height": 7,
+                                    "width": 15
+                                },
+                                {
+                                    "bbox": [
+                                        407,
+                                        111,
+                                        450,
+                                        118
+                                    ],
+                                    "score": 0.998,
+                                    "content": "937197860",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                363,
+                                119,
+                                460,
+                                128
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        363,
+                                        119,
+                                        460,
+                                        128
+                                    ],
+                                    "score": 0.993,
+                                    "content": "germany@cpb-software.com",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                364,
+                                128,
+                                442,
+                                135
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        364,
+                                        128,
+                                        442,
+                                        135
+                                    ],
+                                    "score": 1.0,
+                                    "content": "www.cpb-software.com",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 3.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.3200073242188,
+                        841.9199829101562
+                    ],
+                    "bbox_fs": [
+                        363,
+                        102,
+                        464,
+                        135
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        58,
+                        182,
+                        143,
+                        231
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                58,
+                                182,
+                                134,
+                                193
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        58,
+                                        182,
+                                        134,
+                                        193
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Musterkunde AG",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                58,
+                                194,
+                                119,
+                                206
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        58,
+                                        194,
+                                        119,
+                                        206
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Mr. John Doe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                58,
+                                207,
+                                118,
+                                218
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        58,
+                                        207,
+                                        118,
+                                        218
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Musterstr. 23",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                58,
+                                219,
+                                143,
+                                231
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        58,
+                                        219,
+                                        143,
+                                        231
+                                    ],
+                                    "score": 1.0,
+                                    "content": "12345 Musterstadt",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 7.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.3200073242188,
+                        841.9199829101562
+                    ],
+                    "bbox_fs": [
+                        58,
+                        182,
+                        143,
+                        231
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        58,
+                        293,
+                        196,
+                        305
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                58,
+                                294,
+                                196,
+                                305
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        58,
+                                        294,
+                                        196,
+                                        305
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Invoice WMACCESS Internet",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "index": 10,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.3200073242188,
+                        841.9199829101562
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        55,
+                        329,
+                        562,
+                        358
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_caption",
+                            "bbox": [
+                                57,
+                                318,
+                                144,
+                                328
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        58,
+                                        320,
+                                        143,
+                                        328
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                58,
+                                                320,
+                                                143,
+                                                328
+                                            ],
+                                            "score": 1.0,
+                                            "content": "VAT No. DE199378386",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 11
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                55,
+                                329,
+                                562,
+                                358
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        329,
+                                        562,
+                                        358
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                55,
+                                                329,
+                                                562,
+                                                358
+                                            ],
+                                            "score": 0.945,
+                                            "html": "<html><body><table><tr><td>Invoice No</td><td>Customer No</td><td>Invoice Period</td><td>Date</td></tr><tr><td>123100401</td><td>12345</td><td>01.02.2024 - 29.02.2024</td><td>1. März 2024</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "4c39b9269a3304dc31208cdd84e08acfb40400de2b59fb487c32bcbf58c71cfc.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 13,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        329,
+                                        562,
+                                        338.6666666666667
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                },
+                                {
+                                    "bbox": [
+                                        55,
+                                        338.6666666666667,
+                                        562,
+                                        348.33333333333337
+                                    ],
+                                    "spans": [],
+                                    "index": 13
+                                },
+                                {
+                                    "bbox": [
+                                        55,
+                                        348.33333333333337,
+                                        562,
+                                        358.00000000000006
+                                    ],
+                                    "spans": [],
+                                    "index": 14
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12.0,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.3200073242188,
+                        841.9199829101562
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        56,
+                        367,
+                        564,
+                        641
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                56,
+                                367,
+                                564,
+                                641
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        367,
+                                        564,
+                                        641
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                56,
+                                                367,
+                                                564,
+                                                641
+                                            ],
+                                            "score": 0.982,
+                                            "html": "<html><body><table><tr><td>Service Description</td><td>Amount</td><td>quantity</td><td>Total Amount</td></tr><tr><td>Basic Fee wmView</td><td>-without VAT- 130,00 €</td><td>1</td><td>130,00 €</td></tr><tr><td>Basis fee for additional user accounts</td><td>10,00€</td><td>0</td><td>0,00€</td></tr><tr><td>Basic Fee wmPos</td><td>50,00€</td><td>0</td><td>0,00 €</td></tr><tr><td>Basic Fee wmGuide</td><td>1.000,00 €</td><td>0</td><td>0,00€</td></tr><tr><td>Change of user accounts</td><td>10,00€</td><td>0</td><td>0,00€</td></tr><tr><td>Transaction Fee T1</td><td>0,58€</td><td>14</td><td>8,12€</td></tr><tr><td>Transaction Fee T2</td><td>0,70€</td><td>0</td><td>0,00€</td></tr><tr><td>Transaction Fee T3</td><td>1,50€</td><td>162</td><td>243,00 €</td></tr><tr><td>Transaction Fee T4</td><td>0,50€</td><td>0</td><td>0,00€</td></tr><tr><td>Transaction Fee T5</td><td>0,80€</td><td>0</td><td>0,00€</td></tr><tr><td>Transaction Fee T6</td><td>1,80€</td><td>0</td><td>0,00 €</td></tr><tr><td>Transaction Fee G1</td><td>0,30€</td><td>0</td><td>0,00 €</td></tr><tr><td>Transaction Fee G2</td><td>0,30€</td><td></td><td>0,00€</td></tr><tr><td>Transaction Fee G3</td><td>0,40€</td><td>0</td><td>0,00€</td></tr><tr><td>Transaction Fee G4</td><td>0,40€</td><td>0</td><td>0,00 €</td></tr><tr><td>Transaction Fee G5</td><td>0,30€</td><td></td><td>0,00€</td></tr><tr><td>Transaction Fee G6</td><td>0,30€</td><td>0</td><td>0,00€</td></tr><tr><td rowspan=\"3\"></td><td colspan=\"2\">Total</td><td>381,12 €</td></tr><tr><td colspan=\"2\">VAT 19 %</td><td>72,41 €</td></tr><tr><td colspan=\"2\">Gross Amount incl. VAT</td><td>453,53€</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "d21f001f48fc05043fc9f97250ae0400b2547723c2f8034cde6bb6582b0280c1.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 16,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        367,
+                                        564,
+                                        458.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 15
+                                },
+                                {
+                                    "bbox": [
+                                        56,
+                                        458.3333333333333,
+                                        564,
+                                        549.6666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 16
+                                },
+                                {
+                                    "bbox": [
+                                        56,
+                                        549.6666666666666,
+                                        564,
+                                        641.0
+                                    ],
+                                    "spans": [],
+                                    "index": 17
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 16,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.3200073242188,
+                        841.9199829101562
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        58,
+                        663,
+                        464,
+                        686
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                58,
+                                664,
+                                464,
+                                675
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        58,
+                                        664,
+                                        464,
+                                        675
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Terms of Payment: Immediate payment without discount. Any bank charges must be paid by the invoice recipient.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                58,
+                                676,
+                                291,
+                                687
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        58,
+                                        676,
+                                        291,
+                                        687
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Bank fees at our expense will be charged to the invoice recipient!",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        }
+                    ],
+                    "index": 18.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.3200073242188,
+                        841.9199829101562
+                    ],
+                    "bbox_fs": [
+                        58,
+                        664,
+                        464,
+                        687
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        58,
+                        700,
+                        490,
+                        711
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                58,
+                                701,
+                                490,
+                                712
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        58,
+                                        701,
+                                        490,
+                                        712
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Please credit the amount invoiced to IBAN DE29 1234 5678 9012 3456 78 | BIC GENODE51MIC (SEPA Credit Transfer)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        }
+                    ],
+                    "index": 20,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.3200073242188,
+                        841.9199829101562
+                    ],
+                    "bbox_fs": [
+                        58,
+                        701,
+                        490,
+                        712
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        58,
+                        737,
+                        277,
+                        748
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                57,
+                                738,
+                                277,
+                                748
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        738,
+                                        277,
+                                        748
+                                    ],
+                                    "score": 1.0,
+                                    "content": "This invoice is generated automatically and will not be signed",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        }
+                    ],
+                    "index": 21,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.3200073242188,
+                        841.9199829101562
+                    ],
+                    "bbox_fs": [
+                        57,
+                        738,
+                        277,
+                        748
+                    ]
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        242,
+                        71,
+                        364,
+                        89
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                242,
+                                73,
+                                362,
+                                87
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        242,
+                                        73,
+                                        362,
+                                        87
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Invoice Details",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        172,
+                        97,
+                        433,
+                        112
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                173,
+                                97,
+                                431,
+                                112
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        173,
+                                        98,
+                                        212,
+                                        111
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Period:",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        240,
+                                        98,
+                                        301,
+                                        110
+                                    ],
+                                    "score": 1.0,
+                                    "content": "01.02.2024",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        328,
+                                        97,
+                                        343,
+                                        112
+                                    ],
+                                    "score": 1.0,
+                                    "content": " to",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        370,
+                                        98,
+                                        431,
+                                        110
+                                    ],
+                                    "score": 1.0,
+                                    "content": "29.02.2024",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        43,
+                        127,
+                        203,
+                        142
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                44,
+                                128,
+                                202,
+                                141
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        44,
+                                        128,
+                                        76,
+                                        141
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Unit:",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        103,
+                                        129,
+                                        202,
+                                        141
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Musterkunde AG",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        410,
+                        128,
+                        451,
+                        141
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                410,
+                                129,
+                                450,
+                                141
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        410,
+                                        129,
+                                        450,
+                                        141
+                                    ],
+                                    "score": 1.0,
+                                    "content": "12345",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        43,
+                        170,
+                        513,
+                        194
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                43,
+                                170,
+                                513,
+                                194
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        43,
+                                        170,
+                                        513,
+                                        194
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                43,
+                                                170,
+                                                513,
+                                                194
+                                            ],
+                                            "score": 0.946,
+                                            "html": "<html><body><table><tr><td>Request sections:</td><td>T1</td><td>T2:</td><td>T :</td><td></td><td>T :</td><td>T :</td><td>G1:</td><td>G2$</td><td>G3:</td><td>G4:</td><td>G :$</td><td>G :</td></tr><tr><td>Amount in Euro:</td><td>0.58</td><td>0,70</td><td>1,50</td><td>0,50</td><td>0.80</td><td>1,80</td><td>0,30</td><td>0,30</td><td>0,40</td><td>0,40</td><td>0,30</td><td>0.30</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "00bb63cdc86d4733105e2d616718cf383429777516b6505dd9a1d17f0fbbe062.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        43,
+                                        170,
+                                        513,
+                                        194
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        42,
+                        212,
+                        563,
+                        236
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                42,
+                                212,
+                                563,
+                                236
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        42,
+                                        212,
+                                        563,
+                                        236
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                42,
+                                                212,
+                                                563,
+                                                236
+                                            ],
+                                            "score": 0.944,
+                                            "html": "<html><body><table><tr><td>user-account-1</td><td></td><td></td><td>99</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>154,30€</td></tr><tr><td>user-account-2</td><td>$10}$</td><td></td><td>63</td><td>0</td><td></td><td></td><td></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td><td>96,82€</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "e79c9e7c56cd041945ee919e7cfbfba4158e0678148e759dc221dd11a9afc45b.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        42,
+                                        212,
+                                        563,
+                                        236
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        42,
+                        264,
+                        565,
+                        296
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                42,
+                                264,
+                                565,
+                                296
+                            ],
+                            "group_id": 2,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        42,
+                                        264,
+                                        565,
+                                        296
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                42,
+                                                264,
+                                                565,
+                                                296
+                                            ],
+                                            "score": 0.965,
+                                            "html": "<html><body><table><tr><td>Transaction Fee Seg</td><td>T1:</td><td>T2:</td><td>T3:</td><td>T4:</td><td>T5:</td><td>T6:</td><td>G1:</td><td>G2:</td><td>G3:</td><td>G4:</td><td>G5:</td><td>G6:</td><td></td></tr><tr><td>Queries in Total:</td><td>14</td><td>01</td><td>162</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr><tr><td>Total in Euro:</td><td>8,12€</td><td></td><td>0,00€ 243,00€</td><td>0,00€</td><td>0,00€</td><td>0,00€</td><td>0,00€</td><td>0,00€</td><td>0,00€</td><td>0,00€</td><td>0,00€</td><td>0,00€</td><td>251,12€</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "e04baf2d1b08b46a55315cf7752941f6c72c5fc1f10be0dec84b987a40e11bc1.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        42,
+                                        264,
+                                        565,
+                                        274.6666666666667
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                },
+                                {
+                                    "bbox": [
+                                        42,
+                                        274.6666666666667,
+                                        565,
+                                        285.33333333333337
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                },
+                                {
+                                    "bbox": [
+                                        42,
+                                        285.33333333333337,
+                                        565,
+                                        296.00000000000006
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        43,
+                        304,
+                        394,
+                        325
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                45,
+                                305,
+                                394,
+                                316
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        45,
+                                        305,
+                                        203,
+                                        316
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The explanation of the query fee categories (",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        204,
+                                        305,
+                                        214,
+                                        314
+                                    ],
+                                    "score": 0.28,
+                                    "content": "_ { T 1 }",
+                                    "type": "inline_equation",
+                                    "height": 9,
+                                    "width": 10
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        305,
+                                        394,
+                                        316
+                                    ],
+                                    "score": 1.0,
+                                    "content": " to T6 and G1 to G6) can be found on our website:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                45,
+                                315,
+                                212,
+                                326
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        45,
+                                        315,
+                                        212,
+                                        326
+                                    ],
+                                    "score": 1.0,
+                                    "content": "https://www.wmaccess.com/abfragekategorien",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "index": 9.5
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 1,
+            "page_size": [
+                595.3200073242188,
+                841.9199829101562
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        43,
+                        170,
+                        513,
+                        194
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                43,
+                                170,
+                                513,
+                                194
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        43,
+                                        170,
+                                        513,
+                                        194
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                43,
+                                                170,
+                                                513,
+                                                194
+                                            ],
+                                            "score": 0.946,
+                                            "html": "<html><body><table><tr><td>Request sections:</td><td>T1</td><td>T2:</td><td>T :</td><td></td><td>T :</td><td>T :</td><td>G1:</td><td>G2$</td><td>G3:</td><td>G4:</td><td>G :$</td><td>G :</td></tr><tr><td>Amount in Euro:</td><td>0.58</td><td>0,70</td><td>1,50</td><td>0,50</td><td>0.80</td><td>1,80</td><td>0,30</td><td>0,30</td><td>0,40</td><td>0,40</td><td>0,30</td><td>0.30</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "00bb63cdc86d4733105e2d616718cf383429777516b6505dd9a1d17f0fbbe062.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        43,
+                                        170,
+                                        513,
+                                        194
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        42,
+                        212,
+                        563,
+                        236
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                42,
+                                212,
+                                563,
+                                236
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        42,
+                                        212,
+                                        563,
+                                        236
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                42,
+                                                212,
+                                                563,
+                                                236
+                                            ],
+                                            "score": 0.944,
+                                            "html": "<html><body><table><tr><td>user-account-1</td><td></td><td></td><td>99</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>154,30€</td></tr><tr><td>user-account-2</td><td>$10}$</td><td></td><td>63</td><td>0</td><td></td><td></td><td></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td><td>96,82€</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "e79c9e7c56cd041945ee919e7cfbfba4158e0678148e759dc221dd11a9afc45b.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        42,
+                                        212,
+                                        563,
+                                        236
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        42,
+                        264,
+                        565,
+                        296
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                42,
+                                264,
+                                565,
+                                296
+                            ],
+                            "group_id": 2,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        42,
+                                        264,
+                                        565,
+                                        296
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                42,
+                                                264,
+                                                565,
+                                                296
+                                            ],
+                                            "score": 0.965,
+                                            "html": "<html><body><table><tr><td>Transaction Fee Seg</td><td>T1:</td><td>T2:</td><td>T3:</td><td>T4:</td><td>T5:</td><td>T6:</td><td>G1:</td><td>G2:</td><td>G3:</td><td>G4:</td><td>G5:</td><td>G6:</td><td></td></tr><tr><td>Queries in Total:</td><td>14</td><td>01</td><td>162</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr><tr><td>Total in Euro:</td><td>8,12€</td><td></td><td>0,00€ 243,00€</td><td>0,00€</td><td>0,00€</td><td>0,00€</td><td>0,00€</td><td>0,00€</td><td>0,00€</td><td>0,00€</td><td>0,00€</td><td>0,00€</td><td>251,12€</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "e04baf2d1b08b46a55315cf7752941f6c72c5fc1f10be0dec84b987a40e11bc1.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        42,
+                                        264,
+                                        565,
+                                        274.6666666666667
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                },
+                                {
+                                    "bbox": [
+                                        42,
+                                        274.6666666666667,
+                                        565,
+                                        285.33333333333337
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                },
+                                {
+                                    "bbox": [
+                                        42,
+                                        285.33333333333337,
+                                        565,
+                                        296.00000000000006
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                }
+            ],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        433,
+                        0,
+                        561,
+                        53
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                429,
+                                0,
+                                531,
+                                42
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        429,
+                                        0,
+                                        531,
+                                        42
+                                    ],
+                                    "score": 0.724,
+                                    "content": "CPO",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                479,
+                                39,
+                                561,
+                                52
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        479,
+                                        39,
+                                        561,
+                                        52
+                                    ],
+                                    "score": 0.992,
+                                    "content": "software",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        242,
+                        71,
+                        364,
+                        89
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                242,
+                                73,
+                                362,
+                                87
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        242,
+                                        73,
+                                        362,
+                                        87
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Invoice Details",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0,
+                    "page_num": "page_1",
+                    "page_size": [
+                        595.3200073242188,
+                        841.9199829101562
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        172,
+                        97,
+                        433,
+                        112
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                173,
+                                97,
+                                431,
+                                112
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        173,
+                                        98,
+                                        212,
+                                        111
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Period:",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        240,
+                                        98,
+                                        301,
+                                        110
+                                    ],
+                                    "score": 1.0,
+                                    "content": "01.02.2024",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        328,
+                                        97,
+                                        343,
+                                        112
+                                    ],
+                                    "score": 1.0,
+                                    "content": " to",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        370,
+                                        98,
+                                        431,
+                                        110
+                                    ],
+                                    "score": 1.0,
+                                    "content": "29.02.2024",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_1",
+                    "page_size": [
+                        595.3200073242188,
+                        841.9199829101562
+                    ],
+                    "bbox_fs": [
+                        173,
+                        97,
+                        431,
+                        112
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        43,
+                        127,
+                        203,
+                        142
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                44,
+                                128,
+                                202,
+                                141
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        44,
+                                        128,
+                                        76,
+                                        141
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Unit:",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        103,
+                                        129,
+                                        202,
+                                        141
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Musterkunde AG",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2,
+                    "page_num": "page_1",
+                    "page_size": [
+                        595.3200073242188,
+                        841.9199829101562
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        410,
+                        128,
+                        451,
+                        141
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                410,
+                                129,
+                                450,
+                                141
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        410,
+                                        129,
+                                        450,
+                                        141
+                                    ],
+                                    "score": 1.0,
+                                    "content": "12345",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3,
+                    "page_num": "page_1",
+                    "page_size": [
+                        595.3200073242188,
+                        841.9199829101562
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        43,
+                        170,
+                        513,
+                        194
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                43,
+                                170,
+                                513,
+                                194
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        43,
+                                        170,
+                                        513,
+                                        194
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                43,
+                                                170,
+                                                513,
+                                                194
+                                            ],
+                                            "score": 0.946,
+                                            "html": "<html><body><table><tr><td>Request sections:</td><td>T1</td><td>T2:</td><td>T :</td><td></td><td>T :</td><td>T :</td><td>G1:</td><td>G2$</td><td>G3:</td><td>G4:</td><td>G :$</td><td>G :</td></tr><tr><td>Amount in Euro:</td><td>0.58</td><td>0,70</td><td>1,50</td><td>0,50</td><td>0.80</td><td>1,80</td><td>0,30</td><td>0,30</td><td>0,40</td><td>0,40</td><td>0,30</td><td>0.30</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "00bb63cdc86d4733105e2d616718cf383429777516b6505dd9a1d17f0fbbe062.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        43,
+                                        170,
+                                        513,
+                                        194
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4,
+                    "page_num": "page_1",
+                    "page_size": [
+                        595.3200073242188,
+                        841.9199829101562
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        42,
+                        212,
+                        563,
+                        236
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                42,
+                                212,
+                                563,
+                                236
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        42,
+                                        212,
+                                        563,
+                                        236
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                42,
+                                                212,
+                                                563,
+                                                236
+                                            ],
+                                            "score": 0.944,
+                                            "html": "<html><body><table><tr><td>user-account-1</td><td></td><td></td><td>99</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>154,30€</td></tr><tr><td>user-account-2</td><td>$10}$</td><td></td><td>63</td><td>0</td><td></td><td></td><td></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td><td>96,82€</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "e79c9e7c56cd041945ee919e7cfbfba4158e0678148e759dc221dd11a9afc45b.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        42,
+                                        212,
+                                        563,
+                                        236
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5,
+                    "page_num": "page_1",
+                    "page_size": [
+                        595.3200073242188,
+                        841.9199829101562
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        42,
+                        264,
+                        565,
+                        296
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                42,
+                                264,
+                                565,
+                                296
+                            ],
+                            "group_id": 2,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        42,
+                                        264,
+                                        565,
+                                        296
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                42,
+                                                264,
+                                                565,
+                                                296
+                                            ],
+                                            "score": 0.965,
+                                            "html": "<html><body><table><tr><td>Transaction Fee Seg</td><td>T1:</td><td>T2:</td><td>T3:</td><td>T4:</td><td>T5:</td><td>T6:</td><td>G1:</td><td>G2:</td><td>G3:</td><td>G4:</td><td>G5:</td><td>G6:</td><td></td></tr><tr><td>Queries in Total:</td><td>14</td><td>01</td><td>162</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr><tr><td>Total in Euro:</td><td>8,12€</td><td></td><td>0,00€ 243,00€</td><td>0,00€</td><td>0,00€</td><td>0,00€</td><td>0,00€</td><td>0,00€</td><td>0,00€</td><td>0,00€</td><td>0,00€</td><td>0,00€</td><td>251,12€</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "e04baf2d1b08b46a55315cf7752941f6c72c5fc1f10be0dec84b987a40e11bc1.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        42,
+                                        264,
+                                        565,
+                                        274.6666666666667
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                },
+                                {
+                                    "bbox": [
+                                        42,
+                                        274.6666666666667,
+                                        565,
+                                        285.33333333333337
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                },
+                                {
+                                    "bbox": [
+                                        42,
+                                        285.33333333333337,
+                                        565,
+                                        296.00000000000006
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7,
+                    "page_num": "page_1",
+                    "page_size": [
+                        595.3200073242188,
+                        841.9199829101562
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        43,
+                        304,
+                        394,
+                        325
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                45,
+                                305,
+                                394,
+                                316
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        45,
+                                        305,
+                                        203,
+                                        316
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The explanation of the query fee categories (",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        204,
+                                        305,
+                                        214,
+                                        314
+                                    ],
+                                    "score": 0.28,
+                                    "content": "_ { T 1 }",
+                                    "type": "inline_equation",
+                                    "height": 9,
+                                    "width": 10
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        305,
+                                        394,
+                                        316
+                                    ],
+                                    "score": 1.0,
+                                    "content": " to T6 and G1 to G6) can be found on our website:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                45,
+                                315,
+                                212,
+                                326
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        45,
+                                        315,
+                                        212,
+                                        326
+                                    ],
+                                    "score": 1.0,
+                                    "content": "https://www.wmaccess.com/abfragekategorien",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "index": 9.5,
+                    "page_num": "page_1",
+                    "page_size": [
+                        595.3200073242188,
+                        841.9199829101562
+                    ],
+                    "bbox_fs": [
+                        45,
+                        305,
+                        394,
+                        326
+                    ]
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        120,
+                        70,
+                        485,
+                        90
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                121,
+                                71,
+                                483,
+                                89
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        121,
+                                        71,
+                                        483,
+                                        89
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Invoice Details for wmView Query Reference",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        172,
+                        97,
+                        433,
+                        112
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                173,
+                                97,
+                                431,
+                                112
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        173,
+                                        98,
+                                        212,
+                                        111
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Period:",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        240,
+                                        98,
+                                        301,
+                                        110
+                                    ],
+                                    "score": 1.0,
+                                    "content": "01.02.2024",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        328,
+                                        97,
+                                        343,
+                                        112
+                                    ],
+                                    "score": 1.0,
+                                    "content": " to",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        370,
+                                        98,
+                                        431,
+                                        110
+                                    ],
+                                    "score": 1.0,
+                                    "content": "29.02.2024",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        44,
+                        127,
+                        204,
+                        142
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                43,
+                                127,
+                                202,
+                                142
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        43,
+                                        127,
+                                        76,
+                                        142
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Unit:",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        103,
+                                        129,
+                                        202,
+                                        141
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Musterkunde AG",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        410,
+                        128,
+                        450,
+                        141
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                410,
+                                129,
+                                450,
+                                141
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        410,
+                                        129,
+                                        450,
+                                        141
+                                    ],
+                                    "score": 1.0,
+                                    "content": "12345",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        44,
+                        180,
+                        128,
+                        192
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                45,
+                                181,
+                                128,
+                                192
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        45,
+                                        181,
+                                        128,
+                                        192
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Query Reference:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        284,
+                        171,
+                        481,
+                        193
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                284,
+                                171,
+                                481,
+                                193
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        284,
+                                        171,
+                                        481,
+                                        193
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                284,
+                                                171,
+                                                481,
+                                                193
+                                            ],
+                                            "score": 0.92,
+                                            "html": "<html><body><table><tr><td colspan=\"6\">wmview, wmProfile and User Profiles Query Segments:</td></tr><tr><td>T1:</td><td>T2:</td><td>T3:</td><td>T4:</td><td>T5:</td><td>T6:</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "8db5372680e0327d7a27d4c3bbe8a0d3422d666f0de5474299b9f4e1c949b763.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        284,
+                                        171,
+                                        481,
+                                        193
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        41,
+                        207,
+                        189,
+                        370
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                41,
+                                207,
+                                189,
+                                370
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        207,
+                                        189,
+                                        370
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                41,
+                                                207,
+                                                189,
+                                                370
+                                            ],
+                                            "score": 0.961,
+                                            "html": "<html><body><table><tr><td>*Not specified*</td><td></td></tr><tr><td>AZR/31/27439</td><td></td></tr><tr><td>CCL/3715</td><td></td></tr><tr><td>CRS/28432</td><td></td></tr><tr><td>Cs/52113</td><td></td></tr><tr><td>GS 32090</td><td></td></tr><tr><td>Kpi/22695</td><td></td></tr><tr><td>PG 7772</td><td></td></tr><tr><td>Rjn/11138</td><td></td></tr><tr><td>SF-M 596/99-08</td><td></td></tr><tr><td>Ttrb/17885</td><td></td></tr><tr><td>WPN:24791</td><td></td></tr><tr><td>Wwt/15658</td><td></td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "58ba894780acec39d022b50b657bcdb731d4e9c16a9ca427d32b0e44f47fdd71.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6.5,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        207,
+                                        189,
+                                        288.5
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                },
+                                {
+                                    "bbox": [
+                                        41,
+                                        288.5,
+                                        189,
+                                        370.0
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6.5
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        284,
+                        208,
+                        562,
+                        370
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                284,
+                                208,
+                                562,
+                                370
+                            ],
+                            "group_id": 2,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        284,
+                                        208,
+                                        562,
+                                        370
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                284,
+                                                208,
+                                                562,
+                                                370
+                                            ],
+                                            "score": 0.976,
+                                            "html": "<html><body><table><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4</td><td>0</td><td>9</td><td>0</td><td>0</td><td>0</td><td>15,82€</td></tr><tr><td>0</td><td>0</td><td>12</td><td>0</td><td>0</td><td>0</td><td>18,00€</td></tr><tr><td>0</td><td>0</td><td>4</td><td>0</td><td>0</td><td>0</td><td>6,00 €</td></tr><tr><td>5</td><td>0</td><td>36</td><td>0</td><td>0</td><td>0</td><td>56,90€</td></tr><tr><td>0</td><td>0</td><td>19</td><td>0</td><td>0</td><td>0</td><td>28,50 €</td></tr><tr><td>1</td><td>0</td><td>7</td><td>0</td><td>0</td><td>0</td><td>11,08 €</td></tr><tr><td>2</td><td>0</td><td>6</td><td>0</td><td>0</td><td>0</td><td>10,16 €</td></tr><tr><td>0</td><td>0</td><td>11</td><td>0</td><td>0</td><td>0</td><td>16,50€</td></tr><tr><td>0</td><td>0</td><td>15</td><td>0</td><td>0</td><td>0</td><td>22,50€</td></tr><tr><td>0</td><td>0</td><td>5</td><td>0</td><td>0</td><td>0</td><td>7,50€</td></tr><tr><td>1</td><td>0</td><td>23</td><td>0</td><td>0</td><td>0</td><td>35,08€</td></tr><tr><td>1</td><td>0</td><td>4</td><td>0</td><td>0</td><td>0</td><td>6,58 €</td></tr><tr><td>0</td><td>0</td><td>11</td><td>0</td><td>0</td><td>0</td><td>16,50€</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "6d3aa62f7fd1c0479d128d222e4df11a44309209919f5c514ba098a2bc4e981c.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        284,
+                                        208,
+                                        562,
+                                        262.0
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                },
+                                {
+                                    "bbox": [
+                                        284,
+                                        262.0,
+                                        562,
+                                        316.0
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                },
+                                {
+                                    "bbox": [
+                                        284,
+                                        316.0,
+                                        562,
+                                        370.0
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        284,
+                        395,
+                        481,
+                        417
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                284,
+                                395,
+                                481,
+                                417
+                            ],
+                            "group_id": 3,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        284,
+                                        395,
+                                        481,
+                                        417
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                284,
+                                                395,
+                                                481,
+                                                417
+                                            ],
+                                            "score": 0.932,
+                                            "html": "<html><body><table><tr><td colspan=\"6\">Price for each Query in Euro:</td></tr><tr><td>0,58</td><td>0,70</td><td>1,50</td><td>0,50</td><td>0,80</td><td>1,80</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "3e001c21831b1185ddd6db109aeefbc25f17fb2f9c9276e6906aac4dbda3b7e8.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        284,
+                                        395,
+                                        481,
+                                        417
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 2,
+            "page_size": [
+                595.3200073242188,
+                841.9199829101562
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        284,
+                        171,
+                        481,
+                        193
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                284,
+                                171,
+                                481,
+                                193
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        284,
+                                        171,
+                                        481,
+                                        193
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                284,
+                                                171,
+                                                481,
+                                                193
+                                            ],
+                                            "score": 0.92,
+                                            "html": "<html><body><table><tr><td colspan=\"6\">wmview, wmProfile and User Profiles Query Segments:</td></tr><tr><td>T1:</td><td>T2:</td><td>T3:</td><td>T4:</td><td>T5:</td><td>T6:</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "8db5372680e0327d7a27d4c3bbe8a0d3422d666f0de5474299b9f4e1c949b763.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        284,
+                                        171,
+                                        481,
+                                        193
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        41,
+                        207,
+                        189,
+                        370
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                41,
+                                207,
+                                189,
+                                370
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        207,
+                                        189,
+                                        370
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                41,
+                                                207,
+                                                189,
+                                                370
+                                            ],
+                                            "score": 0.961,
+                                            "html": "<html><body><table><tr><td>*Not specified*</td><td></td></tr><tr><td>AZR/31/27439</td><td></td></tr><tr><td>CCL/3715</td><td></td></tr><tr><td>CRS/28432</td><td></td></tr><tr><td>Cs/52113</td><td></td></tr><tr><td>GS 32090</td><td></td></tr><tr><td>Kpi/22695</td><td></td></tr><tr><td>PG 7772</td><td></td></tr><tr><td>Rjn/11138</td><td></td></tr><tr><td>SF-M 596/99-08</td><td></td></tr><tr><td>Ttrb/17885</td><td></td></tr><tr><td>WPN:24791</td><td></td></tr><tr><td>Wwt/15658</td><td></td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "58ba894780acec39d022b50b657bcdb731d4e9c16a9ca427d32b0e44f47fdd71.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6.5,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        207,
+                                        189,
+                                        288.5
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                },
+                                {
+                                    "bbox": [
+                                        41,
+                                        288.5,
+                                        189,
+                                        370.0
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6.5
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        284,
+                        208,
+                        562,
+                        370
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                284,
+                                208,
+                                562,
+                                370
+                            ],
+                            "group_id": 2,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        284,
+                                        208,
+                                        562,
+                                        370
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                284,
+                                                208,
+                                                562,
+                                                370
+                                            ],
+                                            "score": 0.976,
+                                            "html": "<html><body><table><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4</td><td>0</td><td>9</td><td>0</td><td>0</td><td>0</td><td>15,82€</td></tr><tr><td>0</td><td>0</td><td>12</td><td>0</td><td>0</td><td>0</td><td>18,00€</td></tr><tr><td>0</td><td>0</td><td>4</td><td>0</td><td>0</td><td>0</td><td>6,00 €</td></tr><tr><td>5</td><td>0</td><td>36</td><td>0</td><td>0</td><td>0</td><td>56,90€</td></tr><tr><td>0</td><td>0</td><td>19</td><td>0</td><td>0</td><td>0</td><td>28,50 €</td></tr><tr><td>1</td><td>0</td><td>7</td><td>0</td><td>0</td><td>0</td><td>11,08 €</td></tr><tr><td>2</td><td>0</td><td>6</td><td>0</td><td>0</td><td>0</td><td>10,16 €</td></tr><tr><td>0</td><td>0</td><td>11</td><td>0</td><td>0</td><td>0</td><td>16,50€</td></tr><tr><td>0</td><td>0</td><td>15</td><td>0</td><td>0</td><td>0</td><td>22,50€</td></tr><tr><td>0</td><td>0</td><td>5</td><td>0</td><td>0</td><td>0</td><td>7,50€</td></tr><tr><td>1</td><td>0</td><td>23</td><td>0</td><td>0</td><td>0</td><td>35,08€</td></tr><tr><td>1</td><td>0</td><td>4</td><td>0</td><td>0</td><td>0</td><td>6,58 €</td></tr><tr><td>0</td><td>0</td><td>11</td><td>0</td><td>0</td><td>0</td><td>16,50€</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "6d3aa62f7fd1c0479d128d222e4df11a44309209919f5c514ba098a2bc4e981c.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        284,
+                                        208,
+                                        562,
+                                        262.0
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                },
+                                {
+                                    "bbox": [
+                                        284,
+                                        262.0,
+                                        562,
+                                        316.0
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                },
+                                {
+                                    "bbox": [
+                                        284,
+                                        316.0,
+                                        562,
+                                        370.0
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        284,
+                        395,
+                        481,
+                        417
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                284,
+                                395,
+                                481,
+                                417
+                            ],
+                            "group_id": 3,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        284,
+                                        395,
+                                        481,
+                                        417
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                284,
+                                                395,
+                                                481,
+                                                417
+                                            ],
+                                            "score": 0.932,
+                                            "html": "<html><body><table><tr><td colspan=\"6\">Price for each Query in Euro:</td></tr><tr><td>0,58</td><td>0,70</td><td>1,50</td><td>0,50</td><td>0,80</td><td>1,80</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "3e001c21831b1185ddd6db109aeefbc25f17fb2f9c9276e6906aac4dbda3b7e8.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        284,
+                                        395,
+                                        481,
+                                        417
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11
+                }
+            ],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        432,
+                        0,
+                        561,
+                        53
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                429,
+                                0,
+                                531,
+                                42
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        429,
+                                        0,
+                                        531,
+                                        42
+                                    ],
+                                    "score": 0.724,
+                                    "content": "CPO",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                479,
+                                39,
+                                561,
+                                51
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        479,
+                                        39,
+                                        561,
+                                        51
+                                    ],
+                                    "score": 0.982,
+                                    "content": "software",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        120,
+                        70,
+                        485,
+                        90
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                121,
+                                71,
+                                483,
+                                89
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        121,
+                                        71,
+                                        483,
+                                        89
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Invoice Details for wmView Query Reference",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0,
+                    "page_num": "page_2",
+                    "page_size": [
+                        595.3200073242188,
+                        841.9199829101562
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        172,
+                        97,
+                        433,
+                        112
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                173,
+                                97,
+                                431,
+                                112
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        173,
+                                        98,
+                                        212,
+                                        111
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Period:",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        240,
+                                        98,
+                                        301,
+                                        110
+                                    ],
+                                    "score": 1.0,
+                                    "content": "01.02.2024",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        328,
+                                        97,
+                                        343,
+                                        112
+                                    ],
+                                    "score": 1.0,
+                                    "content": " to",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        370,
+                                        98,
+                                        431,
+                                        110
+                                    ],
+                                    "score": 1.0,
+                                    "content": "29.02.2024",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_2",
+                    "page_size": [
+                        595.3200073242188,
+                        841.9199829101562
+                    ],
+                    "bbox_fs": [
+                        173,
+                        97,
+                        431,
+                        112
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        44,
+                        127,
+                        204,
+                        142
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                43,
+                                127,
+                                202,
+                                142
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        43,
+                                        127,
+                                        76,
+                                        142
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Unit:",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        103,
+                                        129,
+                                        202,
+                                        141
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Musterkunde AG",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2,
+                    "page_num": "page_2",
+                    "page_size": [
+                        595.3200073242188,
+                        841.9199829101562
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        410,
+                        128,
+                        450,
+                        141
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                410,
+                                129,
+                                450,
+                                141
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        410,
+                                        129,
+                                        450,
+                                        141
+                                    ],
+                                    "score": 1.0,
+                                    "content": "12345",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3,
+                    "page_num": "page_2",
+                    "page_size": [
+                        595.3200073242188,
+                        841.9199829101562
+                    ],
+                    "bbox_fs": [
+                        410,
+                        129,
+                        450,
+                        141
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        44,
+                        180,
+                        128,
+                        192
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                45,
+                                181,
+                                128,
+                                192
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        45,
+                                        181,
+                                        128,
+                                        192
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Query Reference:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4,
+                    "page_num": "page_2",
+                    "page_size": [
+                        595.3200073242188,
+                        841.9199829101562
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        284,
+                        171,
+                        481,
+                        193
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                284,
+                                171,
+                                481,
+                                193
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        284,
+                                        171,
+                                        481,
+                                        193
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                284,
+                                                171,
+                                                481,
+                                                193
+                                            ],
+                                            "score": 0.92,
+                                            "html": "<html><body><table><tr><td colspan=\"6\">wmview, wmProfile and User Profiles Query Segments:</td></tr><tr><td>T1:</td><td>T2:</td><td>T3:</td><td>T4:</td><td>T5:</td><td>T6:</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "8db5372680e0327d7a27d4c3bbe8a0d3422d666f0de5474299b9f4e1c949b763.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        284,
+                                        171,
+                                        481,
+                                        193
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5,
+                    "page_num": "page_2",
+                    "page_size": [
+                        595.3200073242188,
+                        841.9199829101562
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        41,
+                        207,
+                        189,
+                        370
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                41,
+                                207,
+                                189,
+                                370
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        207,
+                                        189,
+                                        370
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                41,
+                                                207,
+                                                189,
+                                                370
+                                            ],
+                                            "score": 0.961,
+                                            "html": "<html><body><table><tr><td>*Not specified*</td><td></td></tr><tr><td>AZR/31/27439</td><td></td></tr><tr><td>CCL/3715</td><td></td></tr><tr><td>CRS/28432</td><td></td></tr><tr><td>Cs/52113</td><td></td></tr><tr><td>GS 32090</td><td></td></tr><tr><td>Kpi/22695</td><td></td></tr><tr><td>PG 7772</td><td></td></tr><tr><td>Rjn/11138</td><td></td></tr><tr><td>SF-M 596/99-08</td><td></td></tr><tr><td>Ttrb/17885</td><td></td></tr><tr><td>WPN:24791</td><td></td></tr><tr><td>Wwt/15658</td><td></td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "58ba894780acec39d022b50b657bcdb731d4e9c16a9ca427d32b0e44f47fdd71.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6.5,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        207,
+                                        189,
+                                        288.5
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                },
+                                {
+                                    "bbox": [
+                                        41,
+                                        288.5,
+                                        189,
+                                        370.0
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6.5,
+                    "page_num": "page_2",
+                    "page_size": [
+                        595.3200073242188,
+                        841.9199829101562
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        284,
+                        208,
+                        562,
+                        370
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                284,
+                                208,
+                                562,
+                                370
+                            ],
+                            "group_id": 2,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        284,
+                                        208,
+                                        562,
+                                        370
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                284,
+                                                208,
+                                                562,
+                                                370
+                                            ],
+                                            "score": 0.976,
+                                            "html": "<html><body><table><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4</td><td>0</td><td>9</td><td>0</td><td>0</td><td>0</td><td>15,82€</td></tr><tr><td>0</td><td>0</td><td>12</td><td>0</td><td>0</td><td>0</td><td>18,00€</td></tr><tr><td>0</td><td>0</td><td>4</td><td>0</td><td>0</td><td>0</td><td>6,00 €</td></tr><tr><td>5</td><td>0</td><td>36</td><td>0</td><td>0</td><td>0</td><td>56,90€</td></tr><tr><td>0</td><td>0</td><td>19</td><td>0</td><td>0</td><td>0</td><td>28,50 €</td></tr><tr><td>1</td><td>0</td><td>7</td><td>0</td><td>0</td><td>0</td><td>11,08 €</td></tr><tr><td>2</td><td>0</td><td>6</td><td>0</td><td>0</td><td>0</td><td>10,16 €</td></tr><tr><td>0</td><td>0</td><td>11</td><td>0</td><td>0</td><td>0</td><td>16,50€</td></tr><tr><td>0</td><td>0</td><td>15</td><td>0</td><td>0</td><td>0</td><td>22,50€</td></tr><tr><td>0</td><td>0</td><td>5</td><td>0</td><td>0</td><td>0</td><td>7,50€</td></tr><tr><td>1</td><td>0</td><td>23</td><td>0</td><td>0</td><td>0</td><td>35,08€</td></tr><tr><td>1</td><td>0</td><td>4</td><td>0</td><td>0</td><td>0</td><td>6,58 €</td></tr><tr><td>0</td><td>0</td><td>11</td><td>0</td><td>0</td><td>0</td><td>16,50€</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "6d3aa62f7fd1c0479d128d222e4df11a44309209919f5c514ba098a2bc4e981c.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        284,
+                                        208,
+                                        562,
+                                        262.0
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                },
+                                {
+                                    "bbox": [
+                                        284,
+                                        262.0,
+                                        562,
+                                        316.0
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                },
+                                {
+                                    "bbox": [
+                                        284,
+                                        316.0,
+                                        562,
+                                        370.0
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9,
+                    "page_num": "page_2",
+                    "page_size": [
+                        595.3200073242188,
+                        841.9199829101562
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        284,
+                        395,
+                        481,
+                        417
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                284,
+                                395,
+                                481,
+                                417
+                            ],
+                            "group_id": 3,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        284,
+                                        395,
+                                        481,
+                                        417
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                284,
+                                                395,
+                                                481,
+                                                417
+                                            ],
+                                            "score": 0.932,
+                                            "html": "<html><body><table><tr><td colspan=\"6\">Price for each Query in Euro:</td></tr><tr><td>0,58</td><td>0,70</td><td>1,50</td><td>0,50</td><td>0,80</td><td>1,80</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "3e001c21831b1185ddd6db109aeefbc25f17fb2f9c9276e6906aac4dbda3b7e8.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        284,
+                                        395,
+                                        481,
+                                        417
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11,
+                    "page_num": "page_2",
+                    "page_size": [
+                        595.3200073242188,
+                        841.9199829101562
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "txt",
+    "_version_name": "1.3.12"
+}

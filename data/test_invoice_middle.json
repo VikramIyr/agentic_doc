@@ -1,0 +1,4843 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        21,
+                        15,
+                        106,
+                        26
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                22,
+                                16,
+                                106,
+                                26
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        22,
+                                        16,
+                                        106,
+                                        26
+                                    ],
+                                    "score": 1.0,
+                                    "content": "VOS CONTACTS",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        41,
+                        42,
+                        98,
+                        52
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                44,
+                                43,
+                                99,
+                                53
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        44,
+                                        43,
+                                        99,
+                                        53
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Par Internet",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        21,
+                        55,
+                        184,
+                        83
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                21,
+                                55,
+                                159,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        55,
+                                        159,
+                                        65
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Pour gérer votre contrat et retrouver vos",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                21,
+                                65,
+                                185,
+                                74
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        65,
+                                        185,
+                                        74
+                                    ],
+                                    "score": 1.0,
+                                    "content": "factures sur votre espace Client 24h/24 et 7j/7 :",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                21,
+                                75,
+                                102,
+                                83
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        75,
+                                        102,
+                                        83
+                                    ],
+                                    "score": 1.0,
+                                    "content": "espaceclient.edf.com",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        38,
+                        86,
+                        169,
+                        96
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                87,
+                                169,
+                                95
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        87,
+                                        169,
+                                        95
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Identifiant Internet : O8BIRQEZS9",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        40,
+                        111,
+                        106,
+                        122
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                43,
+                                112,
+                                107,
+                                122
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        43,
+                                        112,
+                                        107,
+                                        122
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Par téléphone",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        21,
+                        124,
+                        181,
+                        191
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                21,
+                                124,
+                                139,
+                                134
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        124,
+                                        139,
+                                        134
+                                    ],
+                                    "score": 1.0,
+                                    "content": "• Ma facture, mon contrat, mon",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                21,
+                                134,
+                                177,
+                                143
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        134,
+                                        177,
+                                        143
+                                    ],
+                                    "score": 1.0,
+                                    "content": "déménagement et pour toute réclamation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                21,
+                                143,
+                                154,
+                                153
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        143,
+                                        75,
+                                        153
+                                    ],
+                                    "score": 1.0,
+                                    "content": "au 09 69 36 66",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        75,
+                                        143,
+                                        92,
+                                        152
+                                    ],
+                                    "score": 0.29,
+                                    "content": "\\cdot",
+                                    "type": "inline_equation",
+                                    "height": 9,
+                                    "width": 17
+                                },
+                                {
+                                    "bbox": [
+                                        93,
+                                        143,
+                                        154,
+                                        153
+                                    ],
+                                    "score": 1.0,
+                                    "content": " (appel non surtaxé)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                21,
+                                153,
+                                182,
+                                162
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        153,
+                                        182,
+                                        162
+                                    ],
+                                    "score": 1.0,
+                                    "content": "• Mon Compte sur Serveur Vocal 24h/24 au",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                21,
+                                163,
+                                160,
+                                173
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        163,
+                                        160,
+                                        173
+                                    ],
+                                    "score": 1.0,
+                                    "content": "0 800 123 333 (N° Vert) pour payer votre",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                21,
+                                173,
+                                174,
+                                182
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        173,
+                                        174,
+                                        182
+                                    ],
+                                    "score": 1.0,
+                                    "content": "facture par CB et transmettre votre relevé de",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                21,
+                                182,
+                                56,
+                                192
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        182,
+                                        56,
+                                        192
+                                    ],
+                                    "score": 1.0,
+                                    "content": "compteur",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        56,
+                        193,
+                        152,
+                        203
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                57,
+                                194,
+                                152,
+                                203
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        194,
+                                        152,
+                                        203
+                                    ],
+                                    "score": 1.0,
+                                    "content": "N° client : 5 029 012 874",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        }
+                    ],
+                    "index": 14
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        206,
+                        183,
+                        244
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                27,
+                                207,
+                                176,
+                                216
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        27,
+                                        207,
+                                        176,
+                                        216
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Mes Travaux de chauffage et d’isolation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                22,
+                                217,
+                                183,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        22,
+                                        217,
+                                        183,
+                                        225
+                                    ],
+                                    "score": 1.0,
+                                    "content": "au 39 29(1) (0,05 € TTC/min hors surcoût éventuel",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                21,
+                                226,
+                                74,
+                                235
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        226,
+                                        74,
+                                        235
+                                    ],
+                                    "score": 1.0,
+                                    "content": "selon opérateur)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                20,
+                                232,
+                                128,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        20,
+                                        232,
+                                        128,
+                                        246
+                                    ],
+                                    "score": 1.0,
+                                    "content": "(1)du lundi au samedi de 8h à 21h",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        }
+                    ],
+                    "index": 16.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        23,
+                        252,
+                        181,
+                        271
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                22,
+                                253,
+                                182,
+                                263
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        22,
+                                        253,
+                                        182,
+                                        263
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Dépannage Electricité : 09 726 750 95 (appel",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                22,
+                                263,
+                                60,
+                                270
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        22,
+                                        263,
+                                        60,
+                                        270
+                                    ],
+                                    "score": 1.0,
+                                    "content": "non surtaxé)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        }
+                    ],
+                    "index": 19.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        48,
+                        285,
+                        104,
+                        295
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                285,
+                                105,
+                                296
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        285,
+                                        105,
+                                        296
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Par courrier",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        }
+                    ],
+                    "index": 21
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        297,
+                        111,
+                        326
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                22,
+                                298,
+                                111,
+                                307
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        22,
+                                        298,
+                                        111,
+                                        307
+                                    ],
+                                    "score": 1.0,
+                                    "content": "EDF SERVICE CLIENTS",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                22,
+                                307,
+                                62,
+                                315
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        22,
+                                        307,
+                                        62,
+                                        315
+                                    ],
+                                    "score": 1.0,
+                                    "content": "TSA 20012",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                21,
+                                317,
+                                106,
+                                325
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        317,
+                                        106,
+                                        325
+                                    ],
+                                    "score": 1.0,
+                                    "content": "41975 BLOIS CEDEX 9",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        }
+                    ],
+                    "index": 23
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        30,
+                        352,
+                        41,
+                        362
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                30,
+                                352,
+                                41,
+                                362
+                            ],
+                            "spans": [],
+                            "index": 25
+                        }
+                    ],
+                    "index": 25
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        47,
+                        351,
+                        158,
+                        362
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                351,
+                                159,
+                                361
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        351,
+                                        159,
+                                        361
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Lieu de consommation :",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        }
+                    ],
+                    "index": 26
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        19,
+                        363,
+                        141,
+                        422
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                21,
+                                364,
+                                108,
+                                374
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        364,
+                                        108,
+                                        374
+                                    ],
+                                    "score": 1.0,
+                                    "content": "7 RUE DU CAIS DE",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                22,
+                                375,
+                                62,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        22,
+                                        375,
+                                        62,
+                                        385
+                                    ],
+                                    "score": 1.0,
+                                    "content": "GILETTE",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                22,
+                                386,
+                                75,
+                                395
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        22,
+                                        386,
+                                        75,
+                                        395
+                                    ],
+                                    "score": 1.0,
+                                    "content": "06300 NICE",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                22,
+                                397,
+                                109,
+                                408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        22,
+                                        397,
+                                        109,
+                                        408
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Titulaire du contrat",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                20,
+                                411,
+                                136,
+                                420
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        20,
+                                        411,
+                                        136,
+                                        420
+                                    ],
+                                    "score": 1.0,
+                                    "content": "M. THOMAS ALEXANDRE",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        }
+                    ],
+                    "index": 29
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        21,
+                        431,
+                        82,
+                        440
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                21,
+                                430,
+                                83,
+                                442
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        430,
+                                        83,
+                                        442
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Votre contrat",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        }
+                    ],
+                    "index": 32
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        442,
+                        171,
+                        479
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                21,
+                                442,
+                                121,
+                                450
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        442,
+                                        121,
+                                        450
+                                    ],
+                                    "score": 1.0,
+                                    "content": "N° de client : 5 029 012 874",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                21,
+                                450,
+                                146,
+                                461
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        450,
+                                        146,
+                                        461
+                                    ],
+                                    "score": 1.0,
+                                    "content": "N° de compte : 4 04 7 021 171 809",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                22,
+                                461,
+                                171,
+                                470
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        22,
+                                        461,
+                                        171,
+                                        470
+                                    ],
+                                    "score": 1.0,
+                                    "content": "(numéro à transmettre pour le règlement de",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                21,
+                                469,
+                                68,
+                                480
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        469,
+                                        68,
+                                        480
+                                    ],
+                                    "score": 1.0,
+                                    "content": "vos factures)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        }
+                    ],
+                    "index": 34.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        62,
+                        482,
+                        142,
+                        491
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                64,
+                                482,
+                                143,
+                                491
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        482,
+                                        143,
+                                        491
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Electricité \"Tarif Bleu\"",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        }
+                    ],
+                    "index": 37
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        21,
+                        494,
+                        113,
+                        526
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                21,
+                                494,
+                                114,
+                                504
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        494,
+                                        114,
+                                        504
+                                    ],
+                                    "score": 1.0,
+                                    "content": "• Point de livraison (PDL) :",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                22,
+                                505,
+                                103,
+                                512
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        22,
+                                        505,
+                                        103,
+                                        512
+                                    ],
+                                    "score": 1.0,
+                                    "content": "N° 21 209 261 841 110",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        },
+                        {
+                            "bbox": [
+                                21,
+                                517,
+                                96,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        517,
+                                        96,
+                                        525
+                                    ],
+                                    "score": 1.0,
+                                    "content": "• Puissance : 09 kVA",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 40
+                        }
+                    ],
+                    "index": 39
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        23,
+                        551,
+                        95,
+                        561
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                23,
+                                552,
+                                96,
+                                561
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        23,
+                                        552,
+                                        96,
+                                        561
+                                    ],
+                                    "score": 1.0,
+                                    "content": "INFORMATIONS",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 41
+                        }
+                    ],
+                    "index": 41
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        23,
+                        572,
+                        122,
+                        582
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                23,
+                                572,
+                                123,
+                                582
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        23,
+                                        572,
+                                        123,
+                                        582
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Prix et Règlementation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 42
+                        }
+                    ],
+                    "index": 42
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        21,
+                        582,
+                        169,
+                        628
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                22,
+                                582,
+                                148,
+                                591
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        22,
+                                        582,
+                                        148,
+                                        591
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Electricité : Suite aux décisions des",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 43
+                        },
+                        {
+                            "bbox": [
+                                22,
+                                592,
+                                151,
+                                601
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        22,
+                                        592,
+                                        151,
+                                        601
+                                    ],
+                                    "score": 1.0,
+                                    "content": "pouvoirs publics, la CSPE évolue au",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 44
+                        },
+                        {
+                            "bbox": [
+                                22,
+                                601,
+                                150,
+                                610
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        22,
+                                        601,
+                                        150,
+                                        610
+                                    ],
+                                    "score": 1.0,
+                                    "content": "01/01/2015 et le tarif réglementé au",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 45
+                        },
+                        {
+                            "bbox": [
+                                22,
+                                610,
+                                169,
+                                620
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        22,
+                                        610,
+                                        169,
+                                        620
+                                    ],
+                                    "score": 1.0,
+                                    "content": "23/07/2014 . Plus d’information sur http://",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 46
+                        },
+                        {
+                            "bbox": [
+                                21,
+                                620,
+                                93,
+                                628
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        620,
+                                        93,
+                                        628
+                                    ],
+                                    "score": 1.0,
+                                    "content": "particuliers.edf.com",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 47
+                        }
+                    ],
+                    "index": 45
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        22,
+                        629,
+                        110,
+                        638
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                23,
+                                629,
+                                111,
+                                638
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        23,
+                                        629,
+                                        111,
+                                        638
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Votre facture évolue",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 48
+                        }
+                    ],
+                    "index": 48
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        22,
+                        640,
+                        177,
+                        658
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                22,
+                                640,
+                                178,
+                                649
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        22,
+                                        640,
+                                        178,
+                                        649
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Pour plus d’informations, connectez-vous sur",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 49
+                        },
+                        {
+                            "bbox": [
+                                22,
+                                649,
+                                78,
+                                658
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        22,
+                                        649,
+                                        78,
+                                        658
+                                    ],
+                                    "score": 1.0,
+                                    "content": "facture.edf.com",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 50
+                        }
+                    ],
+                    "index": 49.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        234,
+                        35,
+                        314,
+                        66
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                236,
+                                36,
+                                316,
+                                68
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        236,
+                                        36,
+                                        316,
+                                        68
+                                    ],
+                                    "score": 0.753,
+                                    "content": "火eDF",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 51.5,
+                    "virtual_lines": [
+                        {
+                            "bbox": [
+                                234,
+                                35,
+                                314,
+                                50.5
+                            ],
+                            "spans": [],
+                            "index": 51
+                        },
+                        {
+                            "bbox": [
+                                234,
+                                50.5,
+                                314,
+                                66.0
+                            ],
+                            "spans": [],
+                            "index": 52
+                        }
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        222,
+                        243,
+                        553,
+                        378
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                222,
+                                243,
+                                553,
+                                378
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        222,
+                                        243,
+                                        553,
+                                        378
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                222,
+                                                243,
+                                                553,
+                                                378
+                                            ],
+                                            "score": 0.773,
+                                            "html": "<html><body><table><tr><td>Votre facture du 07/03/2015 N° 23 501 364 101</td><td>Détails au verso</td></tr><tr><td>Electricité\"Tarif Bleu\" 503,46€ Consommation, abonnement et taxes</td><td>Total TTC</td></tr><tr><td>Total Hors TVA 503,46 €</td><td>599,58€ Prélevé le</td></tr><tr><td>TVA 96,12€</td><td>22/03/2013</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "efcc82879d94422e88e47414ec2371d9b0b2b6b81f34809214cde5b76cb05750.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 54,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        222,
+                                        243,
+                                        553,
+                                        288.0
+                                    ],
+                                    "spans": [],
+                                    "index": 53
+                                },
+                                {
+                                    "bbox": [
+                                        222,
+                                        288.0,
+                                        553,
+                                        333.0
+                                    ],
+                                    "spans": [],
+                                    "index": 54
+                                },
+                                {
+                                    "bbox": [
+                                        222,
+                                        333.0,
+                                        553,
+                                        378.0
+                                    ],
+                                    "spans": [],
+                                    "index": 55
+                                }
+                            ]
+                        },
+                        {
+                            "type": "table_footnote",
+                            "bbox": [
+                                222,
+                                380,
+                                537,
+                                391
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        223,
+                                        381,
+                                        537,
+                                        390
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                223,
+                                                381,
+                                                537,
+                                                390
+                                            ],
+                                            "score": 1.0,
+                                            "content": "Prochaine facture vers le 04/05/2013 - Prochain relevé vers le 04/09/2013",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 56
+                                }
+                            ],
+                            "index": 56
+                        }
+                    ],
+                    "index": 55.0
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        257,
+                        443,
+                        418,
+                        456
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                259,
+                                444,
+                                419,
+                                456
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        259,
+                                        444,
+                                        419,
+                                        456
+                                    ],
+                                    "score": 1.0,
+                                    "content": "VOS MESSAGES PERSONNELS",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 57
+                        }
+                    ],
+                    "index": 57
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        220,
+                        462,
+                        549,
+                        502
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                222,
+                                463,
+                                549,
+                                473
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        222,
+                                        463,
+                                        549,
+                                        473
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Pour que votre prochaine facture soit basée sur votre consommation réelle, il",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 58
+                        },
+                        {
+                            "bbox": [
+                                222,
+                                473,
+                                548,
+                                483
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        222,
+                                        473,
+                                        548,
+                                        483
+                                    ],
+                                    "score": 1.0,
+                                    "content": "vous suffit de nous transmettre votre relevé de compteur entre le 15/04/2015 et le",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 59
+                        },
+                        {
+                            "bbox": [
+                                222,
+                                482,
+                                549,
+                                494
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        222,
+                                        482,
+                                        549,
+                                        494
+                                    ],
+                                    "score": 1.0,
+                                    "content": "01/05/2015 notamment par Internet ou par téléphone (voir coordonnées figurant en",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 60
+                        },
+                        {
+                            "bbox": [
+                                222,
+                                492,
+                                282,
+                                503
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        222,
+                                        492,
+                                        282,
+                                        503
+                                    ],
+                                    "score": 1.0,
+                                    "content": "haut à gauche).",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 61
+                        }
+                    ],
+                    "index": 59.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        228,
+                        686,
+                        247,
+                        706
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                232,
+                                690,
+                                244,
+                                702
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        232,
+                                        690,
+                                        244,
+                                        702
+                                    ],
+                                    "score": 1.0,
+                                    "content": "C",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 62
+                        }
+                    ],
+                    "index": 62
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        252,
+                        691,
+                        526,
+                        703
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                255,
+                                694,
+                                525,
+                                702
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        255,
+                                        694,
+                                        525,
+                                        702
+                                    ],
+                                    "score": 1.0,
+                                    "content": "MODALITE DE PAIEMENT : PRELEVEMENT AUTOMATIQUE",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 63
+                        }
+                    ],
+                    "index": 63
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        210,
+                        713,
+                        543,
+                        741
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                212,
+                                713,
+                                543,
+                                723
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        713,
+                                        543,
+                                        723
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Conformément à votre contrat et aux conditions particulières de vente de l’offre que vous avez",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 64
+                        },
+                        {
+                            "bbox": [
+                                212,
+                                723,
+                                503,
+                                732
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        723,
+                                        503,
+                                        732
+                                    ],
+                                    "score": 1.0,
+                                    "content": "souscrite, le montant de 599,58€ sera prélevé le 22/03/2015 sur le compte dont les",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 65
+                        },
+                        {
+                            "bbox": [
+                                212,
+                                733,
+                                334,
+                                742
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        733,
+                                        334,
+                                        742
+                                    ],
+                                    "score": 1.0,
+                                    "content": "coordonnées figurent ci-dessous :",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 66
+                        }
+                    ],
+                    "index": 65
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        298,
+                        744,
+                        513,
+                        784
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                300,
+                                745,
+                                430,
+                                754
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        300,
+                                        745,
+                                        430,
+                                        754
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Titulaire du compte: ALEXANDRE",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 68
+                        },
+                        {
+                            "bbox": [
+                                298,
+                                754,
+                                415,
+                                764
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        298,
+                                        754,
+                                        415,
+                                        764
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Nom de la banque : ***********",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 69
+                        },
+                        {
+                            "bbox": [
+                                299,
+                                762,
+                                514,
+                                775
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        299,
+                                        762,
+                                        514,
+                                        775
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Compte bancaire : ***** ***** 89874861047 ** Référence ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 70
+                        },
+                        {
+                            "bbox": [
+                                300,
+                                774,
+                                472,
+                                784
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        300,
+                                        774,
+                                        375,
+                                        784
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Unique de Mandat :",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        375,
+                                        774,
+                                        386,
+                                        783
+                                    ],
+                                    "score": 0.6,
+                                    "content": "^ { + + }",
+                                    "type": "inline_equation",
+                                    "height": 9,
+                                    "width": 11
+                                },
+                                {
+                                    "bbox": [
+                                        386,
+                                        774,
+                                        472,
+                                        784
+                                    ],
+                                    "score": 1.0,
+                                    "content": "MM508703417412410",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 71
+                        }
+                    ],
+                    "index": 69.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        209,
+                        811,
+                        538,
+                        840
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                212,
+                                812,
+                                528,
+                                822
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        812,
+                                        528,
+                                        822
+                                    ],
+                                    "score": 1.0,
+                                    "content": "En cas de modification de référence de ce compte ou de contestation, merci de vous",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 72
+                        },
+                        {
+                            "bbox": [
+                                210,
+                                822,
+                                538,
+                                831
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        210,
+                                        822,
+                                        538,
+                                        831
+                                    ],
+                                    "score": 1.0,
+                                    "content": "connecter à votre espace Client espaceclient.edf.com ou de contacter votre conseille",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 73
+                        },
+                        {
+                            "bbox": [
+                                211,
+                                831,
+                                234,
+                                842
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        211,
+                                        831,
+                                        234,
+                                        842
+                                    ],
+                                    "score": 1.0,
+                                    "content": "EDF.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 67
+                        }
+                    ],
+                    "index": 72
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                595.0,
+                842.0
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        222,
+                        243,
+                        553,
+                        378
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                222,
+                                243,
+                                553,
+                                378
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        222,
+                                        243,
+                                        553,
+                                        378
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                222,
+                                                243,
+                                                553,
+                                                378
+                                            ],
+                                            "score": 0.773,
+                                            "html": "<html><body><table><tr><td>Votre facture du 07/03/2015 N° 23 501 364 101</td><td>Détails au verso</td></tr><tr><td>Electricité\"Tarif Bleu\" 503,46€ Consommation, abonnement et taxes</td><td>Total TTC</td></tr><tr><td>Total Hors TVA 503,46 €</td><td>599,58€ Prélevé le</td></tr><tr><td>TVA 96,12€</td><td>22/03/2013</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "efcc82879d94422e88e47414ec2371d9b0b2b6b81f34809214cde5b76cb05750.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 54,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        222,
+                                        243,
+                                        553,
+                                        288.0
+                                    ],
+                                    "spans": [],
+                                    "index": 53
+                                },
+                                {
+                                    "bbox": [
+                                        222,
+                                        288.0,
+                                        553,
+                                        333.0
+                                    ],
+                                    "spans": [],
+                                    "index": 54
+                                },
+                                {
+                                    "bbox": [
+                                        222,
+                                        333.0,
+                                        553,
+                                        378.0
+                                    ],
+                                    "spans": [],
+                                    "index": 55
+                                }
+                            ]
+                        },
+                        {
+                            "type": "table_footnote",
+                            "bbox": [
+                                222,
+                                380,
+                                537,
+                                391
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        223,
+                                        381,
+                                        537,
+                                        390
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                223,
+                                                381,
+                                                537,
+                                                390
+                                            ],
+                                            "score": 1.0,
+                                            "content": "Prochaine facture vers le 04/05/2013 - Prochain relevé vers le 04/09/2013",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 56
+                                }
+                            ],
+                            "index": 56
+                        }
+                    ],
+                    "index": 55.0
+                }
+            ],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        378,
+                        27,
+                        527,
+                        37
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                379,
+                                28,
+                                528,
+                                38
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        379,
+                                        28,
+                                        481,
+                                        37
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Document à conserver 5 ans",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        498,
+                                        28,
+                                        528,
+                                        38
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Page 1/2",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        400,
+                        8,
+                        527,
+                        17
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                401,
+                                10,
+                                528,
+                                16
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        401,
+                                        10,
+                                        528,
+                                        16
+                                    ],
+                                    "score": 1.0,
+                                    "content": "20130308_002344_00001_HP0_PAR911_212",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        222,
+                        247,
+                        241,
+                        266
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        451,
+                        81,
+                        523,
+                        108
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        317,
+                        144,
+                        465,
+                        177
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                318,
+                                146,
+                                435,
+                                155
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        318,
+                                        146,
+                                        435,
+                                        155
+                                    ],
+                                    "score": 1.0,
+                                    "content": "M. THOMAS ALEXANDRE",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                318,
+                                156,
+                                465,
+                                166
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        318,
+                                        156,
+                                        465,
+                                        166
+                                    ],
+                                    "score": 1.0,
+                                    "content": "7 RUE DU CAIS DE GILETTE",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                319,
+                                168,
+                                381,
+                                177
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        319,
+                                        168,
+                                        381,
+                                        177
+                                    ],
+                                    "score": 1.0,
+                                    "content": "06300 NICE",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        29,
+                        111,
+                        37,
+                        123
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                29,
+                                112,
+                                38,
+                                125
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        29,
+                                        112,
+                                        38,
+                                        125
+                                    ],
+                                    "score": 1.0,
+                                    "content": "F",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        30,
+                        43,
+                        40,
+                        52
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                30,
+                                44,
+                                41,
+                                52
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        30,
+                                        44,
+                                        41,
+                                        52
+                                    ],
+                                    "score": 1.0,
+                                    "content": "E",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        223,
+                        440,
+                        242,
+                        459
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                223,
+                                439,
+                                244,
+                                462
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        223,
+                                        439,
+                                        244,
+                                        462
+                                    ],
+                                    "score": 1.0,
+                                    "content": "H",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        30,
+                        287,
+                        41,
+                        294
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        3,
+                        184,
+                        18,
+                        602
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                3,
+                                199,
+                                19,
+                                608
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        3,
+                                        199,
+                                        19,
+                                        608
+                                    ],
+                                    "score": 1.0,
+                                    "content": "EDF Société anonyme au capital de 924 433 331 € Siège social : 22-30 avenue de Wagram 75008 Paris R.C.S. PARIS 552 081 317 N.I.T.V.A. FR 03 552 081 317",
+                                    "type": "text",
+                                    "height": 409,
+                                    "width": 16
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        21,
+                        15,
+                        106,
+                        26
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                22,
+                                16,
+                                106,
+                                26
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        22,
+                                        16,
+                                        106,
+                                        26
+                                    ],
+                                    "score": 1.0,
+                                    "content": "VOS CONTACTS",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.0,
+                        842.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        41,
+                        42,
+                        98,
+                        52
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                44,
+                                43,
+                                99,
+                                53
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        44,
+                                        43,
+                                        99,
+                                        53
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Par Internet",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.0,
+                        842.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        21,
+                        55,
+                        184,
+                        83
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                21,
+                                55,
+                                159,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        55,
+                                        159,
+                                        65
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Pour gérer votre contrat et retrouver vos",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                21,
+                                65,
+                                185,
+                                74
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        65,
+                                        185,
+                                        74
+                                    ],
+                                    "score": 1.0,
+                                    "content": "factures sur votre espace Client 24h/24 et 7j/7 :",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                21,
+                                75,
+                                102,
+                                83
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        75,
+                                        102,
+                                        83
+                                    ],
+                                    "score": 1.0,
+                                    "content": "espaceclient.edf.com",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 3,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.0,
+                        842.0
+                    ],
+                    "bbox_fs": [
+                        21,
+                        55,
+                        185,
+                        83
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        38,
+                        86,
+                        169,
+                        96
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                87,
+                                169,
+                                95
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        87,
+                                        169,
+                                        95
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Identifiant Internet : O8BIRQEZS9",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.0,
+                        842.0
+                    ],
+                    "bbox_fs": [
+                        39,
+                        87,
+                        169,
+                        95
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        40,
+                        111,
+                        106,
+                        122
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                43,
+                                112,
+                                107,
+                                122
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        43,
+                                        112,
+                                        107,
+                                        122
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Par téléphone",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 6,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.0,
+                        842.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        21,
+                        124,
+                        181,
+                        191
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                21,
+                                124,
+                                139,
+                                134
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        124,
+                                        139,
+                                        134
+                                    ],
+                                    "score": 1.0,
+                                    "content": "• Ma facture, mon contrat, mon",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                21,
+                                134,
+                                177,
+                                143
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        134,
+                                        177,
+                                        143
+                                    ],
+                                    "score": 1.0,
+                                    "content": "déménagement et pour toute réclamation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                21,
+                                143,
+                                154,
+                                153
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        143,
+                                        75,
+                                        153
+                                    ],
+                                    "score": 1.0,
+                                    "content": "au 09 69 36 66",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        75,
+                                        143,
+                                        92,
+                                        152
+                                    ],
+                                    "score": 0.29,
+                                    "content": "\\cdot",
+                                    "type": "inline_equation",
+                                    "height": 9,
+                                    "width": 17
+                                },
+                                {
+                                    "bbox": [
+                                        93,
+                                        143,
+                                        154,
+                                        153
+                                    ],
+                                    "score": 1.0,
+                                    "content": " (appel non surtaxé)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                21,
+                                153,
+                                182,
+                                162
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        153,
+                                        182,
+                                        162
+                                    ],
+                                    "score": 1.0,
+                                    "content": "• Mon Compte sur Serveur Vocal 24h/24 au",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                21,
+                                163,
+                                160,
+                                173
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        163,
+                                        160,
+                                        173
+                                    ],
+                                    "score": 1.0,
+                                    "content": "0 800 123 333 (N° Vert) pour payer votre",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                21,
+                                173,
+                                174,
+                                182
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        173,
+                                        174,
+                                        182
+                                    ],
+                                    "score": 1.0,
+                                    "content": "facture par CB et transmettre votre relevé de",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                21,
+                                182,
+                                56,
+                                192
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        182,
+                                        56,
+                                        192
+                                    ],
+                                    "score": 1.0,
+                                    "content": "compteur",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 10,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.0,
+                        842.0
+                    ],
+                    "bbox_fs": [
+                        21,
+                        124,
+                        182,
+                        192
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        56,
+                        193,
+                        152,
+                        203
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                57,
+                                194,
+                                152,
+                                203
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        194,
+                                        152,
+                                        203
+                                    ],
+                                    "score": 1.0,
+                                    "content": "N° client : 5 029 012 874",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        }
+                    ],
+                    "index": 14,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.0,
+                        842.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        206,
+                        183,
+                        244
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                27,
+                                207,
+                                176,
+                                216
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        27,
+                                        207,
+                                        176,
+                                        216
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Mes Travaux de chauffage et d’isolation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                22,
+                                217,
+                                183,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        22,
+                                        217,
+                                        183,
+                                        225
+                                    ],
+                                    "score": 1.0,
+                                    "content": "au 39 29(1) (0,05 € TTC/min hors surcoût éventuel",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                21,
+                                226,
+                                74,
+                                235
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        226,
+                                        74,
+                                        235
+                                    ],
+                                    "score": 1.0,
+                                    "content": "selon opérateur)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                20,
+                                232,
+                                128,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        20,
+                                        232,
+                                        128,
+                                        246
+                                    ],
+                                    "score": 1.0,
+                                    "content": "(1)du lundi au samedi de 8h à 21h",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        }
+                    ],
+                    "index": 16.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.0,
+                        842.0
+                    ],
+                    "bbox_fs": [
+                        20,
+                        207,
+                        183,
+                        246
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        23,
+                        252,
+                        181,
+                        271
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                22,
+                                253,
+                                182,
+                                263
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        22,
+                                        253,
+                                        182,
+                                        263
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Dépannage Electricité : 09 726 750 95 (appel",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                22,
+                                263,
+                                60,
+                                270
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        22,
+                                        263,
+                                        60,
+                                        270
+                                    ],
+                                    "score": 1.0,
+                                    "content": "non surtaxé)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        }
+                    ],
+                    "index": 19.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.0,
+                        842.0
+                    ],
+                    "bbox_fs": [
+                        22,
+                        253,
+                        182,
+                        270
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        48,
+                        285,
+                        104,
+                        295
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                285,
+                                105,
+                                296
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        285,
+                                        105,
+                                        296
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Par courrier",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        }
+                    ],
+                    "index": 21,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.0,
+                        842.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        297,
+                        111,
+                        326
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                22,
+                                298,
+                                111,
+                                307
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        22,
+                                        298,
+                                        111,
+                                        307
+                                    ],
+                                    "score": 1.0,
+                                    "content": "EDF SERVICE CLIENTS",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                22,
+                                307,
+                                62,
+                                315
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        22,
+                                        307,
+                                        62,
+                                        315
+                                    ],
+                                    "score": 1.0,
+                                    "content": "TSA 20012",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                21,
+                                317,
+                                106,
+                                325
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        317,
+                                        106,
+                                        325
+                                    ],
+                                    "score": 1.0,
+                                    "content": "41975 BLOIS CEDEX 9",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        }
+                    ],
+                    "index": 23,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.0,
+                        842.0
+                    ],
+                    "bbox_fs": [
+                        21,
+                        298,
+                        111,
+                        325
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        30,
+                        352,
+                        41,
+                        362
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                30,
+                                352,
+                                41,
+                                362
+                            ],
+                            "spans": [],
+                            "index": 25
+                        }
+                    ],
+                    "index": 25,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.0,
+                        842.0
+                    ],
+                    "bbox_fs": [
+                        30,
+                        352,
+                        41,
+                        362
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        47,
+                        351,
+                        158,
+                        362
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                351,
+                                159,
+                                361
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        351,
+                                        159,
+                                        361
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Lieu de consommation :",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        }
+                    ],
+                    "index": 26,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.0,
+                        842.0
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        19,
+                        363,
+                        141,
+                        422
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                21,
+                                364,
+                                108,
+                                374
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        364,
+                                        108,
+                                        374
+                                    ],
+                                    "score": 1.0,
+                                    "content": "7 RUE DU CAIS DE",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                22,
+                                375,
+                                62,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        22,
+                                        375,
+                                        62,
+                                        385
+                                    ],
+                                    "score": 1.0,
+                                    "content": "GILETTE",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                22,
+                                386,
+                                75,
+                                395
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        22,
+                                        386,
+                                        75,
+                                        395
+                                    ],
+                                    "score": 1.0,
+                                    "content": "06300 NICE",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                22,
+                                397,
+                                109,
+                                408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        22,
+                                        397,
+                                        109,
+                                        408
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Titulaire du contrat",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                20,
+                                411,
+                                136,
+                                420
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        20,
+                                        411,
+                                        136,
+                                        420
+                                    ],
+                                    "score": 1.0,
+                                    "content": "M. THOMAS ALEXANDRE",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31,
+                            "is_list_start_line": true
+                        }
+                    ],
+                    "index": 29,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.0,
+                        842.0
+                    ],
+                    "bbox_fs": [
+                        20,
+                        364,
+                        136,
+                        420
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        21,
+                        431,
+                        82,
+                        440
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                21,
+                                430,
+                                83,
+                                442
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        430,
+                                        83,
+                                        442
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Votre contrat",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        }
+                    ],
+                    "index": 32,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.0,
+                        842.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        442,
+                        171,
+                        479
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                21,
+                                442,
+                                121,
+                                450
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        442,
+                                        121,
+                                        450
+                                    ],
+                                    "score": 1.0,
+                                    "content": "N° de client : 5 029 012 874",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                21,
+                                450,
+                                146,
+                                461
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        450,
+                                        146,
+                                        461
+                                    ],
+                                    "score": 1.0,
+                                    "content": "N° de compte : 4 04 7 021 171 809",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                22,
+                                461,
+                                171,
+                                470
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        22,
+                                        461,
+                                        171,
+                                        470
+                                    ],
+                                    "score": 1.0,
+                                    "content": "(numéro à transmettre pour le règlement de",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                21,
+                                469,
+                                68,
+                                480
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        469,
+                                        68,
+                                        480
+                                    ],
+                                    "score": 1.0,
+                                    "content": "vos factures)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        }
+                    ],
+                    "index": 34.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.0,
+                        842.0
+                    ],
+                    "bbox_fs": [
+                        21,
+                        442,
+                        171,
+                        480
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        62,
+                        482,
+                        142,
+                        491
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                64,
+                                482,
+                                143,
+                                491
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        482,
+                                        143,
+                                        491
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Electricité \"Tarif Bleu\"",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        }
+                    ],
+                    "index": 37,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.0,
+                        842.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        21,
+                        494,
+                        113,
+                        526
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                21,
+                                494,
+                                114,
+                                504
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        494,
+                                        114,
+                                        504
+                                    ],
+                                    "score": 1.0,
+                                    "content": "• Point de livraison (PDL) :",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                22,
+                                505,
+                                103,
+                                512
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        22,
+                                        505,
+                                        103,
+                                        512
+                                    ],
+                                    "score": 1.0,
+                                    "content": "N° 21 209 261 841 110",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        },
+                        {
+                            "bbox": [
+                                21,
+                                517,
+                                96,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        517,
+                                        96,
+                                        525
+                                    ],
+                                    "score": 1.0,
+                                    "content": "• Puissance : 09 kVA",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 40
+                        }
+                    ],
+                    "index": 39,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.0,
+                        842.0
+                    ],
+                    "bbox_fs": [
+                        21,
+                        494,
+                        114,
+                        525
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        23,
+                        551,
+                        95,
+                        561
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                23,
+                                552,
+                                96,
+                                561
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        23,
+                                        552,
+                                        96,
+                                        561
+                                    ],
+                                    "score": 1.0,
+                                    "content": "INFORMATIONS",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 41
+                        }
+                    ],
+                    "index": 41,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.0,
+                        842.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        23,
+                        572,
+                        122,
+                        582
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                23,
+                                572,
+                                123,
+                                582
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        23,
+                                        572,
+                                        123,
+                                        582
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Prix et Règlementation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 42
+                        }
+                    ],
+                    "index": 42,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.0,
+                        842.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        21,
+                        582,
+                        169,
+                        628
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                22,
+                                582,
+                                148,
+                                591
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        22,
+                                        582,
+                                        148,
+                                        591
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Electricité : Suite aux décisions des",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 43
+                        },
+                        {
+                            "bbox": [
+                                22,
+                                592,
+                                151,
+                                601
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        22,
+                                        592,
+                                        151,
+                                        601
+                                    ],
+                                    "score": 1.0,
+                                    "content": "pouvoirs publics, la CSPE évolue au",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 44
+                        },
+                        {
+                            "bbox": [
+                                22,
+                                601,
+                                150,
+                                610
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        22,
+                                        601,
+                                        150,
+                                        610
+                                    ],
+                                    "score": 1.0,
+                                    "content": "01/01/2015 et le tarif réglementé au",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 45
+                        },
+                        {
+                            "bbox": [
+                                22,
+                                610,
+                                169,
+                                620
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        22,
+                                        610,
+                                        169,
+                                        620
+                                    ],
+                                    "score": 1.0,
+                                    "content": "23/07/2014 . Plus d’information sur http://",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 46
+                        },
+                        {
+                            "bbox": [
+                                21,
+                                620,
+                                93,
+                                628
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        620,
+                                        93,
+                                        628
+                                    ],
+                                    "score": 1.0,
+                                    "content": "particuliers.edf.com",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 47
+                        }
+                    ],
+                    "index": 45,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.0,
+                        842.0
+                    ],
+                    "bbox_fs": [
+                        21,
+                        582,
+                        169,
+                        628
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        22,
+                        629,
+                        110,
+                        638
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                23,
+                                629,
+                                111,
+                                638
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        23,
+                                        629,
+                                        111,
+                                        638
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Votre facture évolue",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 48
+                        }
+                    ],
+                    "index": 48,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.0,
+                        842.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        22,
+                        640,
+                        177,
+                        658
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                22,
+                                640,
+                                178,
+                                649
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        22,
+                                        640,
+                                        178,
+                                        649
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Pour plus d’informations, connectez-vous sur",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 49
+                        },
+                        {
+                            "bbox": [
+                                22,
+                                649,
+                                78,
+                                658
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        22,
+                                        649,
+                                        78,
+                                        658
+                                    ],
+                                    "score": 1.0,
+                                    "content": "facture.edf.com",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 50
+                        }
+                    ],
+                    "index": 49.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.0,
+                        842.0
+                    ],
+                    "bbox_fs": [
+                        22,
+                        640,
+                        178,
+                        658
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        234,
+                        35,
+                        314,
+                        66
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                236,
+                                36,
+                                316,
+                                68
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        236,
+                                        36,
+                                        316,
+                                        68
+                                    ],
+                                    "score": 0.753,
+                                    "content": "火eDF",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 51.5,
+                    "virtual_lines": [
+                        {
+                            "bbox": [
+                                234,
+                                35,
+                                314,
+                                50.5
+                            ],
+                            "spans": [],
+                            "index": 51
+                        },
+                        {
+                            "bbox": [
+                                234,
+                                50.5,
+                                314,
+                                66.0
+                            ],
+                            "spans": [],
+                            "index": 52
+                        }
+                    ],
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.0,
+                        842.0
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        222,
+                        243,
+                        553,
+                        378
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                222,
+                                243,
+                                553,
+                                378
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        222,
+                                        243,
+                                        553,
+                                        378
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                222,
+                                                243,
+                                                553,
+                                                378
+                                            ],
+                                            "score": 0.773,
+                                            "html": "<html><body><table><tr><td>Votre facture du 07/03/2015 N° 23 501 364 101</td><td>Détails au verso</td></tr><tr><td>Electricité\"Tarif Bleu\" 503,46€ Consommation, abonnement et taxes</td><td>Total TTC</td></tr><tr><td>Total Hors TVA 503,46 €</td><td>599,58€ Prélevé le</td></tr><tr><td>TVA 96,12€</td><td>22/03/2013</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "efcc82879d94422e88e47414ec2371d9b0b2b6b81f34809214cde5b76cb05750.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 54,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        222,
+                                        243,
+                                        553,
+                                        288.0
+                                    ],
+                                    "spans": [],
+                                    "index": 53
+                                },
+                                {
+                                    "bbox": [
+                                        222,
+                                        288.0,
+                                        553,
+                                        333.0
+                                    ],
+                                    "spans": [],
+                                    "index": 54
+                                },
+                                {
+                                    "bbox": [
+                                        222,
+                                        333.0,
+                                        553,
+                                        378.0
+                                    ],
+                                    "spans": [],
+                                    "index": 55
+                                }
+                            ]
+                        },
+                        {
+                            "type": "table_footnote",
+                            "bbox": [
+                                222,
+                                380,
+                                537,
+                                391
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        223,
+                                        381,
+                                        537,
+                                        390
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                223,
+                                                381,
+                                                537,
+                                                390
+                                            ],
+                                            "score": 1.0,
+                                            "content": "Prochaine facture vers le 04/05/2013 - Prochain relevé vers le 04/09/2013",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 56
+                                }
+                            ],
+                            "index": 56
+                        }
+                    ],
+                    "index": 55.0,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.0,
+                        842.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        257,
+                        443,
+                        418,
+                        456
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                259,
+                                444,
+                                419,
+                                456
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        259,
+                                        444,
+                                        419,
+                                        456
+                                    ],
+                                    "score": 1.0,
+                                    "content": "VOS MESSAGES PERSONNELS",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 57
+                        }
+                    ],
+                    "index": 57,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.0,
+                        842.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        220,
+                        462,
+                        549,
+                        502
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                222,
+                                463,
+                                549,
+                                473
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        222,
+                                        463,
+                                        549,
+                                        473
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Pour que votre prochaine facture soit basée sur votre consommation réelle, il",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 58
+                        },
+                        {
+                            "bbox": [
+                                222,
+                                473,
+                                548,
+                                483
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        222,
+                                        473,
+                                        548,
+                                        483
+                                    ],
+                                    "score": 1.0,
+                                    "content": "vous suffit de nous transmettre votre relevé de compteur entre le 15/04/2015 et le",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 59
+                        },
+                        {
+                            "bbox": [
+                                222,
+                                482,
+                                549,
+                                494
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        222,
+                                        482,
+                                        549,
+                                        494
+                                    ],
+                                    "score": 1.0,
+                                    "content": "01/05/2015 notamment par Internet ou par téléphone (voir coordonnées figurant en",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 60
+                        },
+                        {
+                            "bbox": [
+                                222,
+                                492,
+                                282,
+                                503
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        222,
+                                        492,
+                                        282,
+                                        503
+                                    ],
+                                    "score": 1.0,
+                                    "content": "haut à gauche).",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 61
+                        }
+                    ],
+                    "index": 59.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.0,
+                        842.0
+                    ],
+                    "bbox_fs": [
+                        222,
+                        463,
+                        549,
+                        503
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        228,
+                        686,
+                        247,
+                        706
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                232,
+                                690,
+                                244,
+                                702
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        232,
+                                        690,
+                                        244,
+                                        702
+                                    ],
+                                    "score": 1.0,
+                                    "content": "C",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 62
+                        }
+                    ],
+                    "index": 62,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.0,
+                        842.0
+                    ],
+                    "bbox_fs": [
+                        232,
+                        690,
+                        244,
+                        702
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        252,
+                        691,
+                        526,
+                        703
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                255,
+                                694,
+                                525,
+                                702
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        255,
+                                        694,
+                                        525,
+                                        702
+                                    ],
+                                    "score": 1.0,
+                                    "content": "MODALITE DE PAIEMENT : PRELEVEMENT AUTOMATIQUE",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 63
+                        }
+                    ],
+                    "index": 63,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.0,
+                        842.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        210,
+                        713,
+                        543,
+                        741
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                212,
+                                713,
+                                543,
+                                723
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        713,
+                                        543,
+                                        723
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Conformément à votre contrat et aux conditions particulières de vente de l’offre que vous avez",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 64
+                        },
+                        {
+                            "bbox": [
+                                212,
+                                723,
+                                503,
+                                732
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        723,
+                                        503,
+                                        732
+                                    ],
+                                    "score": 1.0,
+                                    "content": "souscrite, le montant de 599,58€ sera prélevé le 22/03/2015 sur le compte dont les",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 65
+                        },
+                        {
+                            "bbox": [
+                                212,
+                                733,
+                                334,
+                                742
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        733,
+                                        334,
+                                        742
+                                    ],
+                                    "score": 1.0,
+                                    "content": "coordonnées figurent ci-dessous :",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 66
+                        }
+                    ],
+                    "index": 65,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.0,
+                        842.0
+                    ],
+                    "bbox_fs": [
+                        212,
+                        713,
+                        543,
+                        742
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        298,
+                        744,
+                        513,
+                        784
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                300,
+                                745,
+                                430,
+                                754
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        300,
+                                        745,
+                                        430,
+                                        754
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Titulaire du compte: ALEXANDRE",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 68,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                298,
+                                754,
+                                415,
+                                764
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        298,
+                                        754,
+                                        415,
+                                        764
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Nom de la banque : ***********",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 69,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                299,
+                                762,
+                                514,
+                                775
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        299,
+                                        762,
+                                        514,
+                                        775
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Compte bancaire : ***** ***** 89874861047 ** Référence ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 70,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                300,
+                                774,
+                                472,
+                                784
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        300,
+                                        774,
+                                        375,
+                                        784
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Unique de Mandat :",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        375,
+                                        774,
+                                        386,
+                                        783
+                                    ],
+                                    "score": 0.6,
+                                    "content": "^ { + + }",
+                                    "type": "inline_equation",
+                                    "height": 9,
+                                    "width": 11
+                                },
+                                {
+                                    "bbox": [
+                                        386,
+                                        774,
+                                        472,
+                                        784
+                                    ],
+                                    "score": 1.0,
+                                    "content": "MM508703417412410",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 71,
+                            "is_list_start_line": true
+                        }
+                    ],
+                    "index": 69.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.0,
+                        842.0
+                    ],
+                    "bbox_fs": [
+                        298,
+                        745,
+                        514,
+                        784
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        209,
+                        811,
+                        538,
+                        840
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                212,
+                                812,
+                                528,
+                                822
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        812,
+                                        528,
+                                        822
+                                    ],
+                                    "score": 1.0,
+                                    "content": "En cas de modification de référence de ce compte ou de contestation, merci de vous",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 72
+                        },
+                        {
+                            "bbox": [
+                                210,
+                                822,
+                                538,
+                                831
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        210,
+                                        822,
+                                        538,
+                                        831
+                                    ],
+                                    "score": 1.0,
+                                    "content": "connecter à votre espace Client espaceclient.edf.com ou de contacter votre conseille",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 73
+                        },
+                        {
+                            "bbox": [
+                                211,
+                                831,
+                                234,
+                                842
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        211,
+                                        831,
+                                        234,
+                                        842
+                                    ],
+                                    "score": 1.0,
+                                    "content": "EDF.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 67
+                        }
+                    ],
+                    "index": 72,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.0,
+                        842.0
+                    ],
+                    "bbox_fs": [
+                        210,
+                        812,
+                        538,
+                        842
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "txt",
+    "_version_name": "1.3.12"
+}
