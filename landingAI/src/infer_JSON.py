@@ -5,9 +5,9 @@ import json
 # Parse the document (no need to pass result_save_dir)
 
 
-base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
-data_dir = os.path.join(base_dir, "data", "test_invoice2.pdf")
-output_path = os.path.join(base_dir, "data", "LandingAI_output", "JSON_result.json")
+base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+data_dir = os.path.join(base_dir, "data", "test2", "input", "test_invoice2.pdf")
+output_path = os.path.join(base_dir, "data", "test2", "output", "JSON_result.json")
 
 result = parse(data_dir)
 parsed = result[0]

@@ -19,10 +19,10 @@ else:
     print("API Key loaded successfully!")
     # Your code that uses api_key
 
-base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
-data_dir = os.path.join(base_dir, "data", "test_invoice2.pdf")
-grnd_save_dir = os.path.join(base_dir, "data", "LandingAI_output", "groundings")
-doc_save_dir = os.path.join(base_dir, "data", "LandingAI_output", "visualizations")
+base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+data_dir = os.path.join(base_dir, "data", "test1", "input", "test_invoice1.pdf")  #can change 1 into 2 to do the other test
+grnd_save_dir = os.path.join(base_dir, "data", "test1", "output", "groundings")
+doc_save_dir = os.path.join(base_dir, "data", "test1", "output", "visualizations")
 
 # Save groundings when parsing a document
 results = parse_documents(
